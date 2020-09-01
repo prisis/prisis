@@ -1,4 +1,4 @@
-<h1>Hi <img src="./images/hi.gif" width="40px" />, I'm Daniel</h1>
+<h1>Hi <img src="https://github.com/prisis/prisis/blob/main/images/hi.gif?raw=true" width="40px" />, I'm Daniel</h1>
 <p align="center">
   <samp>A Software Developer, Consultant and Open Source Enthusiast from Regensburg (Germany).</samp>
 </p>
