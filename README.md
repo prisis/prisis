@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://github.com/prisis/prisis/blob/main/images/hi.gif?raw=true" width="40px" />, I'm Daniel</h1>
 <p align="center">
-  <samp>A Software Developer, Consultant and Open Source Enthusiast from Regensburg (Germany).</samp>
+  <samp>A Software Engineer, Consultant and Open Source Enthusiast from Regensburg (Germany).</samp>
 </p>
 
 #### How to reach me:
