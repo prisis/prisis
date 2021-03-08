@@ -10,7 +10,11 @@
 
 <br/>
 
-[![prisis's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisis&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/prisis)
+<p align="center">
+  <a href="https://github.com/prisis">
+    <img alt="prisis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prisis&count_private=true&show_icons=true&hide_title=true&include_all_commits=true">
+  </a>
+</p>
 
 <br/>
 
