@@ -46,7 +46,6 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
     <a href="https://twitter.com/_prisis_">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_prisis_?style=for-the-badge">
     </a>
-
     <a href="https://github.com/sponsors/prisis">
         <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
     </a>
