@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (2 days ago)
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (1 week ago)
-- [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (2 weeks ago)
 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.2.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.2.2), today) - :page_with_curl: Narrowspark Coding Standard.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@1.0.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%401.0.2), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.2.1](https://github.com/narrowspark/coding-standard/releases/tag/v5.2.1), 1 week ago) - :page_with_curl: Narrowspark Coding Standard.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.2](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.2), 1 week ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.3](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.3), 1 month ago) - A middleware library for Drash.
 - [dmpjs/linkedlist](https://github.com/dmpjs/linkedlist) ([v1.1.2](https://github.com/dmpjs/linkedlist/releases/tag/v1.1.2), 4 months ago) - A doubly linked list (Bi-directional) implementation.
