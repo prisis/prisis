@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (1 day ago)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 day ago)
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (1 day ago)
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (1 day ago)
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (1 day ago)
 - [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (2 days ago)
 
 #### 🌱 My latest projects
