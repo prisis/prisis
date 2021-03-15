@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.2](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.2), today) - :satellite: Emitting psr-7 responses.
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), today) - :satellite: Emitting psr-7 responses.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.3](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.3), today) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.2.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.2.2), 5 days ago) - :page_with_curl: Narrowspark Coding Standard.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@1.0.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%401.0.2), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
