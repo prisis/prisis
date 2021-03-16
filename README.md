@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (1 day ago)
+- [narrowspark/automatic-composer-legacy-filter](https://github.com/narrowspark/automatic-composer-legacy-filter) - :books: Provides default community health files for the @narrowspark organization. (today)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 day ago)
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (1 day ago)
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (1 day ago)
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (1 day ago)
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (3 days ago)
 
 #### 🌱 My latest projects
 
