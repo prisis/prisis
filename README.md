@@ -16,7 +16,7 @@
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (today)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (today)
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (today)
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (1 day ago)
+- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (today)
 - [narrowspark/automatic-versions](https://github.com/narrowspark/automatic-versions) - [READ ONLY] :warning: Versions list generator for split packages. (1 day ago)
 
 #### 🌱 My latest projects
