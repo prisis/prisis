@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (today)
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (today)
-- [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (6 days ago)
-- [narrowspark/automatic-versions](https://github.com/narrowspark/automatic-versions) - List generator for split packages. (6 days ago)
+- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (1 day ago)
+- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (1 day ago)
+- [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 week ago)
+- [narrowspark/automatic-versions](https://github.com/narrowspark/automatic-versions) - List generator for split packages. (1 week ago)
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) - :page_with_curl: Narrowspark Coding Standard. (1 week ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.5](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.5), today) - A middleware library for Drash.
+- [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.5](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.5), 1 day ago) - A middleware library for Drash.
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 1 week ago) - :page_with_curl: Narrowspark Coding Standard.
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 2 weeks ago) - :satellite: Emitting psr-7 responses.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.3](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.3), 2 weeks ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
