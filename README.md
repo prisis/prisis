@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (1 day ago)
+- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (today)
 - [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (4 days ago)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 week ago)
 - [narrowspark/automatic-versions](https://github.com/narrowspark/automatic-versions) - List generator for split packages. (1 week ago)
