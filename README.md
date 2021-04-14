@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (today)
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (3 days ago)
+- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (1 day ago)
+- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (4 days ago)
 - [narrowspark/automatic-versions](https://github.com/narrowspark/automatic-versions) - List generator for split packages. (2 weeks ago)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (2 weeks ago)
 
@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@1.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%401.0.5), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@1.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%401.0.5), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 1 week ago) - A middleware library for Drash
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 2 weeks ago) - :page_with_curl: Narrowspark Coding Standard.
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 4 weeks ago) - :satellite: Emitting psr-7 responses.
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.3](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.3), 4 weeks ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 1 month ago) - :satellite: Emitting psr-7 responses.
+- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.3](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.3), 1 month ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
