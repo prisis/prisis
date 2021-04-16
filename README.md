@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), today) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@1.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%401.1.5), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 1 week ago) - A middleware library for Drash
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 3 weeks ago) - :page_with_curl: Narrowspark Coding Standard.
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 1 month ago) - :satellite: Emitting psr-7 responses.
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.3](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.3), 1 month ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
