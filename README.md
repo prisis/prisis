@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (2 days ago)
-- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (2 days ago)
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (2 days ago)
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
+- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (3 days ago)
+- [narrowspark/k8s](https://github.com/narrowspark/k8s) - :books: Provides default community health files for the @narrowspark organization. (3 days ago)
+- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (3 days ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@1.1.6](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%401.1.6), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 2 days ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
-- [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 1 week ago) - A middleware library for Drash
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@1.1.6](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%401.1.6), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 3 days ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
+- [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 2 weeks ago) - A middleware library for Drash
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 3 weeks ago) - :page_with_curl: Narrowspark Coding Standard.
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 1 month ago) - :satellite: Emitting psr-7 responses.
 
