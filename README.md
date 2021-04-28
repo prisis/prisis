@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (5 days ago)
+- [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (6 days ago)
 - [anolilab/supervisor-dashboard](https://github.com/anolilab/supervisor-dashboard) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
