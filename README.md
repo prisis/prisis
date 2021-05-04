@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@2.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%402.0.4), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.0.3), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 2 weeks ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 4 weeks ago) - A middleware library for Drash
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 1 month ago) - :page_with_curl: Narrowspark Coding Standard.
