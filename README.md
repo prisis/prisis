@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (today)
 - [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (1 day ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (1 week ago)
 - [anolilab/supervisor-dashboard](https://github.com/anolilab/supervisor-dashboard) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (2 weeks ago)
-- [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 1 month ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.6](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.6), 1 month ago) - A middleware library for Drash
 - [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 1 month ago) - :page_with_curl: Narrowspark Coding Standard.
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) ([v2.0.3](https://github.com/narrowspark/http-emitter/releases/tag/v2.0.3), 2 months ago) - :satellite: Emitting psr-7 responses.
+- [dmpjs/linkedlist](https://github.com/dmpjs/linkedlist) ([v1.1.2](https://github.com/dmpjs/linkedlist/releases/tag/v1.1.2), 6 months ago) - A doubly linked list (Bi-directional) implementation.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
