@@ -13,15 +13,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - A BlitzJS recipe for installing Swagger. (today)
 - [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (today)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using Preact, tailwindcss, i18n and seo. (today)
-- [prisis/blitzjs-swagger-recipe](https://github.com/prisis/blitzjs-swagger-recipe) -  (today)
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark. (1 week ago)
 
 #### 🌱 My latest projects
 
-- [prisis/blitzjs-swagger-recipe](https://github.com/prisis/blitzjs-swagger-recipe) - 
 - [prisis/sublime-text-packages](https://github.com/prisis/sublime-text-packages) - My sublime text 3 setup!
 
 #### 🔭 Latest releases I've contributed to
