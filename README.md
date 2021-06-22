@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (2 days ago)
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (3 days ago)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (1 week ago)
 - [narrowspark/security-advisories](https://github.com/narrowspark/security-advisories) - PHP Security Advisories Database as a JSON file (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.1](https://github.com/blitz-js/blitz/releases/tag/v0.38.1), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.1](https://github.com/blitz-js/blitz/releases/tag/v0.38.1), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.0.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.0.0), 1 week ago) - BlitzJS recipe for installing Swagger.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.7](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.7), 1 week ago) - A middleware library for Drash
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.1), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
