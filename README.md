@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.4](https://github.com/blitz-js/blitz/releases/tag/v0.38.4), 1 day ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.38.5](https://github.com/blitz-js/blitz/releases/tag/v0.38.5), today) - ⚡️The Fullstack React Framework — built on Next.js
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.8](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.8), 1 week ago) - A middleware library for Drash
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.0.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.0.0), 3 weeks ago) - BlitzJS recipe for installing Swagger.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.1), 4 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
