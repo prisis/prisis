@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (5 days ago)
 - [anolilab/nxt](https://github.com/anolilab/nxt) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 weeks ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 weeks ago)
-- [anolilab/cerebro](https://github.com/anolilab/cerebro) - Cerebro is a delightful toolkit for building Node-based command-line interfaces (CLIs) in TypeScript or modern JavaScript. (3 weeks ago)
+- [anolilab/cerebro](https://github.com/anolilab/cerebro) - Cerebro is a delightful toolkit for building Node-based command-line interfaces (CLIs) in TypeScript or modern JavaScript. (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.39.0-canary.0](https://github.com/blitz-js/blitz/releases/tag/v0.39.0-canary.0), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.3), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.0.1](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.0.1), 4 days ago) - BlitzJS recipe for installing Swagger.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.39.0-canary.0](https://github.com/blitz-js/blitz/releases/tag/v0.39.0-canary.0), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.3), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.0.1](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.0.1), 5 days ago) - BlitzJS recipe for installing Swagger.
 - [drashland/deno-drash-middleware](https://github.com/drashland/deno-drash-middleware) ([v0.7.8](https://github.com/drashland/deno-drash-middleware/releases/tag/v0.7.8), 1 month ago) - A middleware library for Drash
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 3 months ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
 
