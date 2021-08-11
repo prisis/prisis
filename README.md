@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (1 week ago)
 - [anolilab/nxt](https://github.com/anolilab/nxt) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
 - [anolilab/cerebro](https://github.com/anolilab/cerebro) - Cerebro is a delightful toolkit for building Node-based command-line interfaces (CLIs) in TypeScript or modern JavaScript. (1 month ago)
 
