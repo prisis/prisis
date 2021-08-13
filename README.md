@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com) - Website &amp; docs (today)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (1 day ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 days ago)
 - [anolilab/blitzjs-cli-recipe](https://github.com/anolilab/blitzjs-cli-recipe) - Node-based command-line (cli) for blitzjs (2 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
-- [anolilab/nxt](https://github.com/anolilab/nxt) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
 
 #### 🌱 My latest projects
 
