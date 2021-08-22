@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/material-theme](https://github.com/anolilab/material-theme) - Base material ui for react projects. (today)
+- [anolilab/sheep](https://github.com/anolilab/sheep) - Material ui components, hooks and provider for react projects. (today)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (3 days ago)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (5 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (5 days ago)
