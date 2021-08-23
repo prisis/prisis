@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/sheep](https://github.com/anolilab/sheep) ([@anolilab/material-ui-table@1.0.0](https://github.com/anolilab/sheep/releases/tag/%40anolilab%2Fmaterial-ui-table%401.0.0), today) - Material ui components, hooks and provider for react projects.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.40.0-canary.4](https://github.com/blitz-js/blitz/releases/tag/v0.40.0-canary.4), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@2.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%402.1.2), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 6 days ago) - BlitzJS recipe for installing Swagger.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 4 months ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
-- [narrowspark/coding-standard](https://github.com/narrowspark/coding-standard) ([v5.3.2](https://github.com/narrowspark/coding-standard/releases/tag/v5.3.2), 5 months ago) - :page_with_curl: Narrowspark Coding Standard.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
