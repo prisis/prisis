@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (5 days ago)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (1 week ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com) - Website &amp; docs (1 week ago)
 - [anolilab/flydisk](https://github.com/anolilab/flydisk) - Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js (1 week ago)
 
