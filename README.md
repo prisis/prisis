@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (today)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (3 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (5 days ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 week ago)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (1 week ago)
-- [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com) - Website &amp; docs (2 weeks ago)
 
 #### 🌱 My latest projects
 
