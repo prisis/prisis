@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/blitzjs-webpack-utils](https://github.com/anolilab/blitzjs-webpack-utils) - Webpack utils for blitzjs (today)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 day ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (4 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (6 days ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 week ago)
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (2 weeks ago)
 
 #### 🌱 My latest projects
 
