@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (today)
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (3 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (4 days ago)
 - [narrowspark/php-library-template](https://github.com/narrowspark/php-library-template) - Provides a GitHub repository template for a Narrowspark PHP library, using GitHub actions. (1 week ago)
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (1 week ago)
 
 #### 🌱 My latest projects
 
