@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.8](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.8), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.40.0-canary.8](https://github.com/blitz-js/blitz/releases/tag/v0.40.0-canary.8), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@2.1.7](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%402.1.7), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 1 week ago) - Webpack utils for Blitz.js
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 3 weeks ago) - BlitzJS recipe for installing Swagger.
 - [narrowspark/php-cs-fixer-config](https://github.com/narrowspark/php-cs-fixer-config) ([v6.3.4](https://github.com/narrowspark/php-cs-fixer-config/releases/tag/v6.3.4), 5 months ago) - :notebook: Provides a configuration for fabpot/php-cs-fixer, used within Narrowspark.
