@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
-- [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
+- [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 week ago)
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) - BlitzJS recipe for installing Swagger. (2 weeks ago)
 
