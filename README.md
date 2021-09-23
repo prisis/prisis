@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 day ago)
-- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (1 day ago)
+- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
+- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (today)
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (2 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 weeks ago)
