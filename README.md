@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.41.1](https://github.com/blitz-js/blitz/releases/tag/v0.41.1), 2 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.41.1](https://github.com/blitz-js/blitz/releases/tag/v0.41.1), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/zod-dto@1.1.2](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fzod-dto%401.1.2), 1 week ago) - Helpful packages to work with prisma and zod.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/babel-preset@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fbabel-preset%403.0.1), 4 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/babel-preset@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fbabel-preset%403.0.1), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 1 month ago) - Webpack utils for Blitz.js
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 1 month ago) - BlitzJS recipe for installing Swagger.
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 2 months ago) - BlitzJS recipe for installing Swagger.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
