@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (3 weeks ago)
-- [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (1 month ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 month ago)
+- [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (1 month ago)
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (1 month ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@2.2.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%402.2.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.41.2-canary.4](https://github.com/blitz-js/blitz/releases/tag/v0.41.2-canary.4), 6 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/zod-dto@1.1.2](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fzod-dto%401.1.2), 3 weeks ago) - Helpful packages to work with prisma and zod.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/babel-preset@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fbabel-preset%403.0.1), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 1 month ago) - Webpack utils for Blitz.js
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 2 months ago) - BlitzJS recipe for installing Swagger.
 
