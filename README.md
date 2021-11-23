@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (4 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 weeks ago)
-- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 month ago)
-- [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (1 month ago)
+- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (5 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 weeks ago)
+- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (2 months ago)
+- [narrowspark/template-sync-action](https://github.com/narrowspark/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (2 months ago)
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (2 months ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.43.0](https://github.com/blitz-js/blitz/releases/tag/v0.43.0), 5 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.43.0](https://github.com/blitz-js/blitz/releases/tag/v0.43.0), 6 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/babel-preset@3.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fbabel-preset%403.1.1), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/zod-dto@1.1.2](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fzod-dto%401.1.2), 1 month ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 2 months ago) - Webpack utils for Blitz.js
