@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.44.3](https://github.com/blitz-js/blitz/releases/tag/v0.44.3), 4 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.44.3](https://github.com/blitz-js/blitz/releases/tag/v0.44.3), 5 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@2.0.9](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%402.0.9), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/zod-dto@1.1.2](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fzod-dto%401.1.2), 2 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 3 months ago) - Webpack utils for Blitz.js
