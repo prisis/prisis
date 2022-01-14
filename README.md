@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (2 days ago)
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (3 weeks ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
