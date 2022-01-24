@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (3 days ago)
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (4 days ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.2](https://github.com/blitz-js/blitz/releases/tag/v0.45.2), 3 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.2](https://github.com/blitz-js/blitz/releases/tag/v0.45.2), 4 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%403.0.1), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v6.0.0-alpha.3](https://github.com/faker-js/faker/releases/tag/v6.0.0-alpha.3), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@1.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%401.0.0), 1 month ago) - Helpful packages to work with prisma and zod.
