@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (5 days ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (1 month ago)
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) - Webpack utils for Blitz.js (1 month ago)
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [faker-js/faker](https://github.com/faker-js/faker) ([v6.0.0-alpha.4](https://github.com/faker-js/faker/releases/tag/v6.0.0-alpha.4), today) - Generate massive amounts of fake data in the browser and node.js
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.2](https://github.com/blitz-js/blitz/releases/tag/v0.45.2), 4 days ago) - ⚡️The Fullstack React Framework — built on Next.js
+- [faker-js/faker](https://github.com/faker-js/faker) ([v6.0.0-alpha.4](https://github.com/faker-js/faker/releases/tag/v6.0.0-alpha.4), 1 day ago) - Generate massive amounts of fake data in the browser and node.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.2](https://github.com/blitz-js/blitz/releases/tag/v0.45.2), 5 days ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%403.0.1), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@1.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%401.0.0), 1 month ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 4 months ago) - Webpack utils for Blitz.js
