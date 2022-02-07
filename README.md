@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (2 days ago)
-- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (5 days ago)
-- [visulima/wunder](https://github.com/visulima/wunder) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (6 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (3 days ago)
+- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (6 days ago)
+- [visulima/wunder](https://github.com/visulima/wunder) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 week ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [narrowspark/http-emitter](https://github.com/narrowspark/http-emitter) - :satellite: Emitting psr-7 responses. (2 weeks ago)
 
 #### 🌱 My latest projects
