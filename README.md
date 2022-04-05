@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 day ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 days ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 month ago)
 - [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [faker-js/faker](https://github.com/faker-js/faker) ([v6.1.2](https://github.com/faker-js/faker/releases/tag/v6.1.2), today) - Generate massive amounts of fake data in the browser and node.js
+- [faker-js/faker](https://github.com/faker-js/faker) ([v6.1.2](https://github.com/faker-js/faker/releases/tag/v6.1.2), 1 day ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 1 month ago) - Helpful packages to work with prisma and zod.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%403.0.1), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.3](https://github.com/blitz-js/blitz/releases/tag/v0.45.3), 1 month ago) - ⚡️The Fullstack React Framework — built on Next.js
