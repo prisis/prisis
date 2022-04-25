@@ -13,14 +13,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (2 weeks ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 month ago)
-- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 month ago)
 
 #### 🌱 My latest projects
 
+- [prisis/broken-ssr](https://github.com/prisis/broken-ssr) - 
 - [prisis/sublime-text-packages](https://github.com/prisis/sublime-text-packages) - My sublime text 3 setup!
 
 #### 🔭 Latest releases I've contributed to
