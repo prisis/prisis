@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (5 days ago)
+- [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (6 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (3 weeks ago)
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
-- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 month ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (4 weeks ago)
+- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (2 months ago)
 
 #### 🌱 My latest projects
 
