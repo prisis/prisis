@@ -15,7 +15,7 @@
 
 - [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 weeks ago)
-- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (3 weeks ago)
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (4 weeks ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 month ago)
 - [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (2 months ago)
 
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [faker-js/faker](https://github.com/faker-js/faker) ([v6.3.1](https://github.com/faker-js/faker/releases/tag/v6.3.1), 3 days ago) - Generate massive amounts of fake data in the browser and node.js
+- [faker-js/faker](https://github.com/faker-js/faker) ([v6.3.1](https://github.com/faker-js/faker/releases/tag/v6.3.1), 4 days ago) - Generate massive amounts of fake data in the browser and node.js
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.4](https://github.com/blitz-js/blitz/releases/tag/v0.45.4), 3 weeks ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 2 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%403.0.1), 2 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
