@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.0.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%403.0.2), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.0.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.0.2), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v6.3.1](https://github.com/faker-js/faker/releases/tag/v6.3.1), 5 days ago) - Generate massive amounts of fake data in the browser and node.js
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v0.45.4](https://github.com/blitz-js/blitz/releases/tag/v0.45.4), 3 weeks ago) - ⚡️The Fullstack React Framework — built on Next.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 2 months ago) - Helpful packages to work with prisma and zod.
