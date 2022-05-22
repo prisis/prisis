@@ -17,7 +17,7 @@
 - [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (3 weeks ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 month ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 month ago)
-- [anolilab/node-mono-library-template](https://github.com/anolilab/node-mono-library-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (2 months ago)
+- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (2 months ago)
 
 #### 🌱 My latest projects
 
