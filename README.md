@@ -26,8 +26,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [faker-js/faker](https://github.com/faker-js/faker) ([v7.1.0](https://github.com/faker-js/faker/releases/tag/v7.1.0), today) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.0.7](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.0.7), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [faker-js/faker](https://github.com/faker-js/faker) ([v7.0.1](https://github.com/faker-js/faker/releases/tag/v7.0.1), 2 days ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 2 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 8 months ago) - Webpack utils for Blitz.js
 - [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 9 months ago) - BlitzJS recipe for installing Swagger.
