@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (6 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 week ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 - [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (1 month ago)
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 month ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.0.4), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.0.4), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.1.0](https://github.com/faker-js/faker/releases/tag/v7.1.0), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 3 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 9 months ago) - Webpack utils for Blitz.js
