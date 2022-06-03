@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 - [prisis/broken-ssr](https://github.com/prisis/broken-ssr) -  (1 month ago)
