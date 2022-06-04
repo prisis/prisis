@@ -14,15 +14,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (today)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
-- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js (1 week ago)
 
 #### 🌱 My latest projects
 
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) - 
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume
-- [prisis/broken-ssr](https://github.com/prisis/broken-ssr) - 
 - [prisis/sublime-text-packages](https://github.com/prisis/sublime-text-packages) - My sublime text 3 setup!
 
 #### 🔭 Latest releases I've contributed to
