@@ -15,9 +15,9 @@
 
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (today)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (today)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
 
 #### 🌱 My latest projects
 
