@@ -43,7 +43,6 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 #### 📫 How to reach me
 
-- Website: [danielbannert](https://danielbannert.com)
 - Website: [anolilab](https://anolilab.com)
 - Twitter: [@_prisis_](https://twitter.com/_prisis_)
 - Email: [d.bannert@anolilab.de](mailto://d.bannert@anolilab.de)
