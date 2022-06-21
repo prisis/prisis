@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (6 days ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 week ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 week ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [faker-js/faker](https://github.com/faker-js/faker) ([v7.3.0](https://github.com/faker-js/faker/releases/tag/v7.3.0), today) - Generate massive amounts of fake data in the browser and node.js
+- [faker-js/faker](https://github.com/faker-js/faker) ([v7.3.0](https://github.com/faker-js/faker/releases/tag/v7.3.0), 1 day ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.0.8](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.0.8), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 3 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 9 months ago) - Webpack utils for Blitz.js
