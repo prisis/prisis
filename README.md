@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
