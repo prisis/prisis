@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 days ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (3 days ago)
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 day ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (4 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (4 days ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 weeks ago)
 
