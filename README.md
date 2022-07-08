@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 days ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (4 days ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 week ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 week ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 week ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 weeks ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 
 #### 🌱 My latest projects
