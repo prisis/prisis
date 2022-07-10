@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (5 days ago)
+- [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (6 days ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 week ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 weeks ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (2 weeks ago)
