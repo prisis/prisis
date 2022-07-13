@@ -31,7 +31,7 @@
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.0.8](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.0.8), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 4 months ago) - Helpful packages to work with prisma and zod.
 - [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 10 months ago) - Webpack utils for Blitz.js
-- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 10 months ago) - BlitzJS recipe for installing Swagger.
+- [anolilab/blitzjs-swagger-recipe](https://github.com/anolilab/blitzjs-swagger-recipe) ([v2.1.0](https://github.com/anolilab/blitzjs-swagger-recipe/releases/tag/v2.1.0), 11 months ago) - BlitzJS recipe for installing Swagger.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
