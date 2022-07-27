@@ -15,7 +15,7 @@
 
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (3 weeks ago)
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (4 weeks ago)
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 month ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 month ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
 
