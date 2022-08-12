@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 weeks ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (1 month ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 month ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 month ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
 
 #### 🌱 My latest projects
 
