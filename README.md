@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (2 days ago)
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (3 weeks ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (3 days ago)
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (4 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (2 months ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (2 months ago)
