@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.10](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.10), today) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.11](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.11), today) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.5.0](https://github.com/faker-js/faker/releases/tag/v7.5.0), 1 month ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%403.0.4), 2 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 7 months ago) - Helpful packages to work with prisma and zod.
