@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (5 days ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 month ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.1.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Fstylelint-config%403.1.0), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.13](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.13), 6 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 7 months ago) - Helpful packages to work with prisma and zod.
