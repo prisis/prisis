@@ -27,11 +27,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/connect@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fconnect%401.0.0), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.14](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.14), today) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 7 months ago) - Helpful packages to work with prisma and zod.
-- [anolilab/blitz-webpack-utils](https://github.com/anolilab/blitz-webpack-utils) ([v1.0.4](https://github.com/anolilab/blitz-webpack-utils/releases/tag/v1.0.4), 1 year ago) - Webpack utils for Blitz.js
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
