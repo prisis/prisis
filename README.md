@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/readdir@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima%2Freaddir%401.0.0), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/jsdoc-open-api@1.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fjsdoc-open-api%401.0.1), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.14](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.14), 1 day ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@4.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Feslint-config%404.1.1), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 2 weeks ago) - Generate massive amounts of fake data in the browser and node.js
