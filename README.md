@@ -27,9 +27,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.16](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.16), 2 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.1.2), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/jsdoc-open-api@1.1.1](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fjsdoc-open-api%401.1.1), 6 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.16](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.16), 3 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.1.2), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/jsdoc-open-api@1.1.1](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fjsdoc-open-api%401.1.1), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 3 weeks ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 8 months ago) - Helpful packages to work with prisma and zod.
 
