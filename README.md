@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (3 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (4 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 weeks ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (3 months ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.17](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.17), 3 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/connect@1.1.1](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fconnect%401.1.1), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.17](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.17), 4 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/connect@1.1.1](https://github.com/visulima/visulima/releases/tag/%40visulima%2Fconnect%401.1.1), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab%2Ftextlint-config%404.1.2), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 1 month ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab%2Fprisma-schema-reader%402.0.0), 8 months ago) - Helpful packages to work with prisma and zod.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [indeedeng](https://github.com/indeedeng) (4 days ago)
+- [indeedeng](https://github.com/indeedeng) (5 days ago)
 
 #### 💬 Feedback
 
