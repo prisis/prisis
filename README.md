@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (6 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (3 months ago)
 - [anolilab/next.js-template](https://github.com/anolilab/next.js-template) - Provides a GitHub repository template for Next.js, using i18n and seo. (4 months ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.0.0), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.17](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.17), 6 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.0.1), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.17](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.17), 1 week ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%404.1.2), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 1 month ago) - Generate massive amounts of fake data in the browser and node.js
 - [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) ([@anolilab/prisma-schema-reader@2.0.0](https://github.com/anolilab/zod-prisma/releases/tag/%40anolilab/prisma-schema-reader%402.0.0), 8 months ago) - Helpful packages to work with prisma and zod.
