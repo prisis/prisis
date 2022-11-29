@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (5 days ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (3 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.19](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.19), 6 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.19](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.19), 1 week ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.0.2), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%404.1.2), 3 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v7.6.0](https://github.com/faker-js/faker/releases/tag/v7.6.0), 1 month ago) - Generate massive amounts of fake data in the browser and node.js
@@ -35,7 +35,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [indeedeng](https://github.com/indeedeng) (2 weeks ago)
+- [indeedeng](https://github.com/indeedeng) (3 weeks ago)
 
 #### 💬 Feedback
 
