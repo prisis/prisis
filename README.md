@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.21](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.21), today) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.0.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.0.3), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.21](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.21), 1 day ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.0.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.0.3), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.0](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.0), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.0), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%404.1.2), 2 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
