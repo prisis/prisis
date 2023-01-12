@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.1), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.2](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.2), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.21](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.21), 1 week ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.0](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.0), 2 weeks ago) - Generate massive amounts of fake data in the browser and node.js
