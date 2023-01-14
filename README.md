@@ -27,11 +27,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@3.2.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%403.2.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.2.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.2.3), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.22](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.22), 2 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.2](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.2), 6 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.0](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.0), 3 weeks ago) - Generate massive amounts of fake data in the browser and node.js
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@4.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%404.1.2), 2 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
