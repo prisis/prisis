@@ -16,7 +16,7 @@
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 month ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 months ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (3 months ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (4 months ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (6 months ago)
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.18](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.18), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.23](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.23), 3 weeks ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-blog@2.2.18](https://github.com/shuding/nextra/releases/tag/nextra-theme-blog%402.2.18), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.23](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.23), 4 weeks ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.3](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.3), 1 month ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@5.0.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%405.0.2), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.0](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.0), 2 months ago) - Generate massive amounts of fake data in the browser and node.js
