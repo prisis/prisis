@@ -14,13 +14,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) - Terraform modules from DasMeta to manage auth0 setup (today)
+- [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 months ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 months ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 months ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) - 
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume
 - [prisis/sublime-text-packages](https://github.com/prisis/sublime-text-packages) - My sublime text 3 setup!
