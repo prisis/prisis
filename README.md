@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro (4 days ago)
-- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) - Terraform modules from DasMeta to manage auth0 setup (4 days ago)
+- [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro (5 days ago)
+- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) - Terraform modules from DasMeta to manage auth0 setup (5 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 months ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 months ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.24](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.24), 1 day ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.5.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.5.0), 4 days ago) - Terraform modules from DasMeta to manage auth0 setup
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.24](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.24), 2 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 3 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.5.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.5.0), 5 days ago) - Terraform modules from DasMeta to manage auth0 setup
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.2](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.2), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.3](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.3), 2 months ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 
