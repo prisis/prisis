@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.24](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.24), 3 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.25](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.25), today) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.5.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.5.0), 6 days ago) - Terraform modules from DasMeta to manage auth0 setup
 - [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.2](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.2), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
