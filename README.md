@@ -28,15 +28,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.25](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.25), 3 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.25](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.25), 4 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra@2.3.0](https://github.com/shuding/nextra/releases/tag/nextra%402.3.0), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.5.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.5.0), 1 week ago) - Terraform modules from DasMeta to manage auth0 setup
-- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.2](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.2), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
+- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-alpha.2](https://github.com/faker-js/faker/releases/tag/v8.0.0-alpha.2), 2 weeks ago) - Generate massive amounts of fake data in the browser and node.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.3](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.3), 2 months ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [indeedeng](https://github.com/indeedeng) (4 months ago)
+- [indeedeng](https://github.com/indeedeng) (5 months ago)
 
 #### 💬 Feedback
 
