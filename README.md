@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-beta.1](https://github.com/faker-js/faker/releases/tag/v8.0.0-beta.1), today) - Generate massive amounts of fake data in the browser and node.js
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.0), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.27](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.27), 5 days ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-beta.0](https://github.com/faker-js/faker/releases/tag/v8.0.0-beta.0), 1 week ago) - Generate massive amounts of fake data in the browser and node.js
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 1 week ago) - Terraform modules from DasMeta to manage auth0 setup
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@1.2.3](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%401.2.3), 3 months ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 
