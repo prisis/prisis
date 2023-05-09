@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [prisis/ender-3-pro-klipper](https://github.com/prisis/ender-3-pro-klipper) - Klipper configuration for my Ender 3 pro (voron) (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
+- [prisis/ender-3-pro-klipper](https://github.com/prisis/ender-3-pro-klipper) - Klipper configuration for my Ender 3 pro (voron) (5 days ago)
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) - Terraform modules from DasMeta to manage auth0 setup (1 month ago)
 - [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro (1 month ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 months ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@5.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%405.0.3), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-beta.1](https://github.com/faker-js/faker/releases/tag/v8.0.0-beta.1), 2 days ago) - Generate massive amounts of fake data in the browser and node.js
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.0), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@5.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%405.0.3), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [faker-js/faker](https://github.com/faker-js/faker) ([v8.0.0-beta.1](https://github.com/faker-js/faker/releases/tag/v8.0.0-beta.1), 3 days ago) - Generate massive amounts of fake data in the browser and node.js
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.5.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.5.0), 5 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.27](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.27), 1 week ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 1 week ago) - Terraform modules from DasMeta to manage auth0 setup
 
