@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@5.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%405.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@1.1.5](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%401.1.5), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/prettier-config@4.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/prettier-config%404.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.28](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.28), 1 day ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.7.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.7.1), 4 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 1 month ago) - Terraform modules from DasMeta to manage auth0 setup
