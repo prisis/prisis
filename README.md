@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (6 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 week ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 weeks ago)
 - [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (1 month ago)
 - [prisis/ender-3-pro-klipper](https://github.com/prisis/ender-3-pro-klipper) - Klipper configuration for my Ender 3 pro (voron) (1 month ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@7.2.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%407.2.3), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.8.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.8.0), 5 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.29](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.29), 1 week ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@7.2.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%407.2.3), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.8.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.8.0), 6 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.29](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.29), 2 weeks ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@1.1.5](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%401.1.5), 2 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 2 months ago) - Terraform modules from DasMeta to manage auth0 setup
 
