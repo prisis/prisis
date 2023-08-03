@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
 - [anolilab/semantic-release-preview](https://github.com/anolilab/semantic-release-preview) - Preview the semantic release notes that would result from merging a Github PR. (1 month ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume. (1 month ago)
 - [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (2 months ago)
