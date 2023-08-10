@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.3), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@11.3.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4011.3.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@2.2.1](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%402.2.1), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) ([v2.0.0-beta.31](https://github.com/blitz-js/blitz/releases/tag/v2.0.0-beta.31), 3 weeks ago) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.10.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.10.0), 4 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
