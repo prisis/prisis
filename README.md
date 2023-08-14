@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@2.3.0](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%402.3.0), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@11.3.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4011.3.2), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@2.2.1](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%402.2.1), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 3 months ago) - Terraform modules from DasMeta to manage auth0 setup
 
 #### ❤️ These awesome people sponsor me (thank you!)
