@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (5 days ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (5 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (6 days ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (6 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 week ago)
 - [anolilab/semantic-release-preview](https://github.com/anolilab/semantic-release-preview) - Preview the semantic release notes that would result from merging a Github PR. (1 month ago)
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), today) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@11.3.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4011.3.0), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.11.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.11.0), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@11.3.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4011.3.0), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/nextra-theme-docs@2.2.1](https://github.com/visulima/visulima/releases/tag/%40visulima/nextra-theme-docs%402.2.1), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.6.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.6.1), 3 months ago) - Terraform modules from DasMeta to manage auth0 setup
 
