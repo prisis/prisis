@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) - Utility to transform an OpenAPI operation into a HAR representation (1 day ago)
-- [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions. (1 day ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 week ago)
+- [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) - Utility to transform an OpenAPI operation into a HAR representation (2 days ago)
+- [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions. (2 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (5 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [readmeio/oas](https://github.com/readmeio/oas) ([21.0.2](https://github.com/readmeio/oas/releases/tag/21.0.2), 1 day ago) - Comprehensive tooling for working with OpenAPI definitions.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.4), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.1), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.3), 6 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [readmeio/oas](https://github.com/readmeio/oas) ([21.0.2](https://github.com/readmeio/oas/releases/tag/21.0.2), 2 days ago) - Comprehensive tooling for working with OpenAPI definitions.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.4), 5 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.1), 6 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.12.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.12.3), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([21.0.4](https://github.com/readmeio/oas-to-har/releases/tag/21.0.4), 1 month ago) - Utility to transform an OpenAPI operation into a HAR representation
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [indeedeng](https://github.com/indeedeng) (9 months ago)
+- [indeedeng](https://github.com/indeedeng) (10 months ago)
 
 #### 💬 Feedback
 
