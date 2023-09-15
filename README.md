@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.5), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@13.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4013.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.1](https://github.com/readmeio/oas-to-har/releases/tag/23.0.1), 3 days ago) - Utility to transform an OpenAPI operation into a HAR representation
 - [readmeio/oas](https://github.com/readmeio/oas) ([21.1.1](https://github.com/readmeio/oas/releases/tag/21.1.1), 3 days ago) - Comprehensive tooling for working with OpenAPI definitions.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@3.0.0-alpha.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%403.0.0-alpha.0), 1 week ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
