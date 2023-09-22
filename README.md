@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.7](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.7), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.8](https://github.com/readmeio/oas-to-har/releases/tag/23.0.8), 1 day ago) - Utility to transform an OpenAPI operation into a HAR representation
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.6](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.6), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [readmeio/oas](https://github.com/readmeio/oas) ([21.1.1](https://github.com/readmeio/oas/releases/tag/21.1.1), 1 week ago) - Comprehensive tooling for working with OpenAPI definitions.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@3.0.0-alpha.0](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%403.0.0-alpha.0), 2 weeks ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.2), 2 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
