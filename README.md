@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.10), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.0), today) - Terraform modules from DasMeta to manage auth0 setup
-- [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.9](https://github.com/readmeio/oas-to-har/releases/tag/23.0.9), today) - Utility to transform an OpenAPI operation into a HAR representation
-- [readmeio/oas](https://github.com/readmeio/oas) ([22.0.0](https://github.com/readmeio/oas/releases/tag/22.0.0), 1 day ago) - Comprehensive tooling for working with OpenAPI definitions.
-- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.1), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.10), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.0), 1 day ago) - Terraform modules from DasMeta to manage auth0 setup
+- [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.9](https://github.com/readmeio/oas-to-har/releases/tag/23.0.9), 1 day ago) - Utility to transform an OpenAPI operation into a HAR representation
+- [readmeio/oas](https://github.com/readmeio/oas) ([22.0.0](https://github.com/readmeio/oas/releases/tag/22.0.0), 2 days ago) - Comprehensive tooling for working with OpenAPI definitions.
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.1](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.1), 2 days ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
