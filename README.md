@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 weeks ago)
 - [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions. (3 weeks ago)
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) - Utility to transform an OpenAPI operation into a HAR representation (3 weeks ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.10), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 1 day ago) - Test for the multi-semantic-release
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.9](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.9), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.0), 3 days ago) - Terraform modules from DasMeta to manage auth0 setup
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.9](https://github.com/readmeio/oas-to-har/releases/tag/23.0.9), 3 days ago) - Utility to transform an OpenAPI operation into a HAR representation
 - [readmeio/oas](https://github.com/readmeio/oas) ([22.0.0](https://github.com/readmeio/oas/releases/tag/22.0.0), 4 days ago) - Comprehensive tooling for working with OpenAPI definitions.
