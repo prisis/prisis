@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.10), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.11](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.11), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 1 day ago) - Test for the multi-semantic-release
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.0), 3 days ago) - Terraform modules from DasMeta to manage auth0 setup
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.9](https://github.com/readmeio/oas-to-har/releases/tag/23.0.9), 3 days ago) - Utility to transform an OpenAPI operation into a HAR representation
