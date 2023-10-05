@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (5 days ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 weeks ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (6 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 month ago)
 - [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions. (1 month ago)
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) - Utility to transform an OpenAPI operation into a HAR representation (1 month ago)
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.18](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.18), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 6 days ago) - Test for the multi-semantic-release
+- [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@2.13.2](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%402.13.2), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.18](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.18), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 1 week ago) - Test for the multi-semantic-release
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.0](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.0), 1 week ago) - Terraform modules from DasMeta to manage auth0 setup
 - [readmeio/oas-to-har](https://github.com/readmeio/oas-to-har) ([23.0.9](https://github.com/readmeio/oas-to-har/releases/tag/23.0.9), 1 week ago) - Utility to transform an OpenAPI operation into a HAR representation
-- [readmeio/oas](https://github.com/readmeio/oas) ([22.0.0](https://github.com/readmeio/oas/releases/tag/22.0.0), 1 week ago) - Comprehensive tooling for working with OpenAPI definitions.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
