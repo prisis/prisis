@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.20](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.20), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), today) - 
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.2), today) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@2.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%402.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [shuding/nextra](https://github.com/shuding/nextra) ([nextra-theme-docs@3.0.0-alpha.3](https://github.com/shuding/nextra/releases/tag/nextra-theme-docs%403.0.0-alpha.3), 1 day ago) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 1 week ago) - Test for the multi-semantic-release
 
