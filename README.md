@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (6 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (6 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (1 week ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 week ago)
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (2 weeks ago)
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.5](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.5), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.24](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.24), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.5](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.5), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.24](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.24), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 1 week ago) - 
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.2), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 2 weeks ago) - Test for the multi-semantic-release
