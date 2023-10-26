@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 days ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 weeks ago)
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.7](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.7), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.7](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.7), 2 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@14.0.24](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4014.0.24), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 2 weeks ago) - 
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.2), 2 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 3 weeks ago) - Test for the multi-semantic-release
+- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) ([msr-test-c@1.0.0](https://github.com/anolilab/test-multi-semantic-release/releases/tag/msr-test-c%401.0.0), 4 weeks ago) - Test for the multi-semantic-release
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
