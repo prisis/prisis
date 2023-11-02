@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@2.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%402.1.3), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@2.1.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%402.1.4), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.8](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.8), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 3 weeks ago) - 
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.2), 3 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
