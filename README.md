@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
+- [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (3 weeks ago)
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@2.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%402.1.5), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.13](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.13), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.9](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.9), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.0.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.0.0), today) - Parse JSON with more helpful errors
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v1.0.0](https://github.com/anolilab/renovate-config/releases/tag/v1.0.0), today) - Shareable config for Renovate (renovatebot.com)
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@2.0.8](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%402.0.8), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 3 weeks ago) - 
 
 #### ❤️ These awesome people sponsor me (thank you!)
