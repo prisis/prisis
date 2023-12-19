@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (5 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (6 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/fmt@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/fmt%401.0.0), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/fmt@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/fmt%401.0.0), 6 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v3.0.0](https://github.com/anolilab/renovate-config/releases/tag/v3.0.0), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 3 weeks ago) - Parse JSON with more helpful errors
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.13](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.13), 1 month ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
