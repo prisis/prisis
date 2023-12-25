@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) -  (today)
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) - My personal Portfolio (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 week ago)
@@ -23,7 +23,7 @@
 
 - [prisis/ender-3-pro-klipper](https://github.com/prisis/ender-3-pro-klipper) - Klipper configuration for my Ender 3 pro (voron)
 - [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) - 
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) - My personal Portfolio
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume
 - [prisis/sublime-text-packages](https://github.com/prisis/sublime-text-packages) - My sublime text 3 setup!
 
@@ -33,7 +33,7 @@
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v3.1.0](https://github.com/anolilab/renovate-config/releases/tag/v3.1.0), 6 days ago) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/fmt@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/fmt%401.0.0), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 1 month ago) - Parse JSON with more helpful errors
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 2 months ago) - 
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 2 months ago) - My personal Portfolio
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
