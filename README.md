@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (4 days ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (5 days ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) - My personal Portfolio (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 weeks ago)
