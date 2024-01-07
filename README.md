@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (5 days ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (6 days ago)
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) - My personal Portfolio (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 weeks ago)
@@ -33,7 +33,7 @@
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v3.1.0](https://github.com/anolilab/renovate-config/releases/tag/v3.1.0), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/fmt@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/fmt%401.0.0), 3 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 1 month ago) - Parse JSON with more helpful errors
-- [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 2 months ago) - My personal Portfolio
+- [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 3 months ago) - My personal Portfolio
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
