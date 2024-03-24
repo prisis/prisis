@@ -14,9 +14,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [anolilab/sponsors](https://github.com/anolilab/sponsors) - Generators for sponsor banners (today)
-- [anolilab/gh-actions](https://github.com/anolilab/gh-actions) - Shared github action workflows for Single and Mono Repository Node projects (1 day ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
+- [anolilab/sponsors](https://github.com/anolilab/sponsors) - Generators for sponsor banners (1 day ago)
+- [anolilab/gh-actions](https://github.com/anolilab/gh-actions) - Shared github action workflows for Single and Mono Repository Node projects (2 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.0.11](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.0.11), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.0.11](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.0.11), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [dasmeta/terraform-auth0-modules](https://github.com/dasmeta/terraform-auth0-modules) ([v1.7.1](https://github.com/dasmeta/terraform-auth0-modules/releases/tag/v1.7.1), 1 week ago) - Terraform modules from DasMeta to manage auth0 setup
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.14](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.14), 3 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v3.1.0](https://github.com/anolilab/renovate-config/releases/tag/v3.1.0), 3 months ago) - Shareable config for Renovate (renovatebot.com)
