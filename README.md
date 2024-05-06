@@ -17,7 +17,7 @@
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 month ago)
 - [anolilab/sponsors](https://github.com/anolilab/sponsors) - Generators for sponsor banners (1 month ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (2 months ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 months ago)
 
 #### 🌱 My latest projects
 
