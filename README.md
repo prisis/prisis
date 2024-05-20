@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
+- [anolilab/singlerepo-template](https://github.com/anolilab/singlerepo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (today)
 - [anolilab/semantic-release-pnpm](https://github.com/anolilab/semantic-release-pnpm) - Semantic-release plugin to publish a npm package with pnpm (6 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (6 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
-- [anolilab/sponsors](https://github.com/anolilab/sponsors) - Generators for sponsor banners (1 month ago)
 
 #### 🌱 My latest projects
 
