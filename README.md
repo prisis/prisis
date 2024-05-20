@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [anolilab/singlerepo-template](https://github.com/anolilab/singlerepo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (today)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
+- [anolilab/multi-semantic-release](https://github.com/anolilab/multi-semantic-release) - A multi semantic release tool for monorepos. (5 days ago)
 - [anolilab/semantic-release-pnpm](https://github.com/anolilab/semantic-release-pnpm) - Semantic-release plugin to publish a npm package with pnpm (6 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (6 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -31,9 +31,9 @@
 
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v1.2.2](https://github.com/anolilab/workflows/releases/tag/v1.2.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@1.8.1](https://github.com/visulima/visulima/releases/tag/%40visulima/package%401.8.1), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [anolilab/multi-semantic-release](https://github.com/anolilab/multi-semantic-release) ([v1.0.4](https://github.com/anolilab/multi-semantic-release/releases/tag/v1.0.4), 6 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.0](https://github.com/anolilab/renovate-config/releases/tag/v4.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.14](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.14), 5 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 6 months ago) - Parse JSON with more helpful errors
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
