@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (5 days ago)
-- [anolilab/semantic-release-pnpm](https://github.com/anolilab/semantic-release-pnpm) - Semantic-release plugin to publish a npm package with pnpm (5 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (6 days ago)
+- [anolilab/semantic-release-pnpm](https://github.com/anolilab/semantic-release-pnpm) - Semantic-release plugin to publish a npm package with pnpm (6 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 month ago)
 - [anolilab/sponsors](https://github.com/anolilab/sponsors) - Generators for sponsor banners (1 month ago)
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@1.8.1](https://github.com/visulima/visulima/releases/tag/%40visulima/package%401.8.1), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@1.8.1](https://github.com/visulima/visulima/releases/tag/%40visulima/package%401.8.1), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.0](https://github.com/anolilab/renovate-config/releases/tag/v4.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.14](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.14), 4 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 5 months ago) - Parse JSON with more helpful errors
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.14](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.14), 5 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) ([v8.1.0](https://github.com/sindresorhus/parse-json/releases/tag/v8.1.0), 6 months ago) - Parse JSON with more helpful errors
 - [prisis/danielbannert](https://github.com/prisis/danielbannert) ([v1.0.0](https://github.com/prisis/danielbannert/releases/tag/v1.0.0), 7 months ago) - My personal Portfolio
 
 #### ❤️ These awesome people sponsor me (thank you!)
