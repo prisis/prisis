@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [anolilab/singlerepo-template](https://github.com/anolilab/singlerepo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (1 day ago)
 - [anolilab/multi-semantic-release](https://github.com/anolilab/multi-semantic-release) - A multi semantic release tool for monorepos. (6 days ago)
 - [anolilab/semantic-release-pnpm](https://github.com/anolilab/semantic-release-pnpm) - Semantic-release plugin to publish a npm package with pnpm (1 week ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 week ago)
 
 #### 🌱 My latest projects
 
