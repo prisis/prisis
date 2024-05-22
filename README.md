@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (today)
 - [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [anolilab/single-repo-template](https://github.com/anolilab/single-repo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (2 days ago)
 
 #### 🌱 My latest projects
