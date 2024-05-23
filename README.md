@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (today)
-- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
-- [anolilab/single-repo-template](https://github.com/anolilab/single-repo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (2 days ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
+- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 day ago)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 day ago)
+- [anolilab/single-repo-template](https://github.com/anolilab/single-repo-template) - Provides a GitHub single repository template for a Anolilab Node library, using GitHub actions. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.0.3](https://github.com/anolilab/workflows/releases/tag/v2.0.3), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-pnpm@1.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-pnpm%401.0.0), 1 day ago) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.0.3](https://github.com/anolilab/workflows/releases/tag/v2.0.3), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@1.8.1](https://github.com/visulima/visulima/releases/tag/%40visulima/package%401.8.1), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([v1.0.4](https://github.com/anolilab/semantic-release/releases/tag/v1.0.4), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.0](https://github.com/anolilab/renovate-config/releases/tag/v4.0.0), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@6.0.14](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%406.0.14), 5 months ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
