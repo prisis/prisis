@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (6 days ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 weeks ago)
 - [visulima/nextra-theme-docs](https://github.com/visulima/nextra-theme-docs) - A Visulima Nextra theme for documentation sites. (3 weeks ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 weeks ago)
 
 #### 🌱 My latest projects
 
