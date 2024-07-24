@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 days ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 weeks ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 weeks ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 weeks ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.3](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.3), today) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.12](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.12), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 2 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.3](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.3), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.12](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.12), 2 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 3 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.1](https://github.com/anolilab/renovate-config/releases/tag/v4.0.1), 1 month ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.0), 1 month ago) - A multi semantic release tool for monorepos.
 
