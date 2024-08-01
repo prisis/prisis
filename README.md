@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), today) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.13](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.13), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.3](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.3), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 4 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.1](https://github.com/anolilab/renovate-config/releases/tag/v4.0.1), 1 month ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.0), 1 month ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
