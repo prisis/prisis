@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 day ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (4 weeks ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 day ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 days ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.1), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.14](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.14), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 6 days ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.1), 2 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.14](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.14), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 1 week ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 1 month ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
