@@ -16,7 +16,7 @@
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 week ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 week ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 week ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 weeks ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@
 
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.15](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.15), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 1 week ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.1), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.1), 2 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 2 weeks ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 1 month ago) - Shared Github Actions for Node.js projects and Monorepos.
 
