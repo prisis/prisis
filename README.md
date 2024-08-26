@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 week ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 weeks ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 weeks ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.2), 3 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.2), 4 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.15](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.15), 2 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 3 weeks ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
