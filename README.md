@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 weeks ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 weeks ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 weeks ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (3 weeks ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
