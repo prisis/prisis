@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 day ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 weeks ago)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), today) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.16](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.16), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5-alpha.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5-alpha.2), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 4 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 1 month ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.4](https://github.com/anolilab/workflows/releases/tag/v2.6.4), 2 months ago) - Shared Github Actions for Node.js projects and Monorepos.
