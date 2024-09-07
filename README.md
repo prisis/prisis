@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.17](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.17), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.18](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.18), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), 3 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 1 month ago) - Shareable config for Renovate (renovatebot.com)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 1 month ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
