@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/health-check@2.0.17](https://github.com/visulima/visulima/releases/tag/%40visulima/health-check%402.0.17), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.23](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.23), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.0.7](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.0.7), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), 1 month ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 1 month ago) - Shareable config for Renovate (renovatebot.com)
