@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (3 days ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (3 days ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (4 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
 - [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (3 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 weeks ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.24](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.24), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.0.8](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.0.8), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.24](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.24), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.0.8](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.0.8), 4 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), 1 month ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v4.0.2](https://github.com/anolilab/renovate-config/releases/tag/v4.0.2), 2 months ago) - Shareable config for Renovate (renovatebot.com)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) ([v2.5.0](https://github.com/BridgeAR/safe-stable-stringify/releases/tag/v2.5.0), 2 months ago) - Safe, deterministic and fast serialization alternative to JSON.stringify.
