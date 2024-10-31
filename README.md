@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.2.0-alpha.2](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.2.0-alpha.2), today) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.2.0-alpha.3](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.2.0-alpha.3), today) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.1), 5 days ago) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.25](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.25), 6 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.5](https://github.com/anolilab/workflows/releases/tag/v2.6.5), 6 days ago) - Shared Github Actions for Node.js projects and Monorepos.
