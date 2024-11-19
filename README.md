@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (2 days ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [visulima/.github](https://github.com/visulima/.github) - Source code of the default community health files for the Visulima organization. (2 weeks ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.7.2](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.7.2), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.7.3](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.7.3), today) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.2), 2 weeks ago) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.25](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.25), 3 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.5](https://github.com/anolilab/workflows/releases/tag/v2.6.5), 3 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
