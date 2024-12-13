@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 weeks ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (2 weeks ago)
 - [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (3 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 month ago)
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), today) - A fast and modern bundler for Node.js and TypeScript.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.26](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.26), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.9.2](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.9.2), 2 weeks ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.2), 1 month ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v2.6.5](https://github.com/anolilab/workflows/releases/tag/v2.6.5), 1 month ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), 3 months ago) - Generate favicons for your project with caching for blazing fast rebuilds.
