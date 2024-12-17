@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.6-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.6-alpha.1), today) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.2.0), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.3), 2 days ago) - A multi semantic release tool for monorepos.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), 4 days ago) - A fast and modern bundler for Node.js and TypeScript.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.5](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.5), 3 months ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
