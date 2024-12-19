@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (2 days ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (3 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (4 days ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.6-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.6-alpha.1), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.2.0), 2 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.3), 3 days ago) - A multi semantic release tool for monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), 5 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.0.6-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.0.6-alpha.1), 2 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.2.0), 3 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 4 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.3), 4 days ago) - A multi semantic release tool for monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), 6 days ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
