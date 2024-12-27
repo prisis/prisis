@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (6 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 week ago)
@@ -33,7 +33,7 @@
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.2.0), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@9.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%409.0.3), 1 week ago) - A multi semantic release tool for monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), 1 week ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.0), 2 weeks ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
