@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.3.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.3.0), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.4.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.4.0), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.2](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.2), 5 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.1.0-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.1.0-alpha.1), 2 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 2 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
