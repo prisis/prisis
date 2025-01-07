@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.3](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.3), today) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.4](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.4), today) - A fast and modern bundler for Node.js and TypeScript.
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.0](https://github.com/unjs/pathe/releases/tag/v2.0.0), 4 days ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.4.0](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.4.0), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.1.0-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.1.0-alpha.1), 2 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
