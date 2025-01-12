@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
 - [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (5 days ago)
-- [unjs/pathe](https://github.com/unjs/pathe) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.2](https://github.com/anolilab/workflows/releases/tag/v3.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.11.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.11.0), today) - A fast and modern bundler for Node.js and TypeScript.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.32](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.32), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.1](https://github.com/unjs/pathe/releases/tag/v2.0.1), 3 days ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.10.7](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.10.7), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v1.1.0-alpha.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v1.1.0-alpha.1), 3 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.0](https://github.com/anolilab/workflows/releases/tag/v3.0.0), 4 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
