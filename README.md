@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (2 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 weeks ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.1), today) - A fast and modern bundler for Node.js and TypeScript.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.39](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.39), 2 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.1](https://github.com/anolilab/renovate-config/releases/tag/v5.0.1), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 3 weeks ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
