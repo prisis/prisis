@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 week ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 weeks ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 month ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.40](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.40), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.5.4](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.5.4), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.1), 1 week ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.1](https://github.com/anolilab/renovate-config/releases/tag/v5.0.1), 3 weeks ago) - Shareable config for Renovate (renovatebot.com)
-- [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 4 weeks ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
+- [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 1 month ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@1.1.10](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%401.1.10), 1 month ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
