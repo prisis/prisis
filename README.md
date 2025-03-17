@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (5 days ago)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 week ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 month ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.5.4](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.5.4), 4 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@3.5.4](https://github.com/visulima/visulima/releases/tag/%40visulima/package%403.5.4), 5 days ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.1), 1 week ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.1](https://github.com/anolilab/renovate-config/releases/tag/v5.0.1), 1 month ago) - Shareable config for Renovate (renovatebot.com)
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 1 month ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
