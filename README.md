@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/vscode-extension-packs](https://github.com/anolilab/vscode-extension-packs) - Extension Pack for Anolilab (today)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 days ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (4 days ago)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (3 weeks ago)
