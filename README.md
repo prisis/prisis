@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@3.0.41](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%403.0.41), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/api-platform@3.0.41](https://github.com/visulima/visulima/releases/tag/%40visulima/api-platform%403.0.41), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.1), 1 month ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.1](https://github.com/anolilab/renovate-config/releases/tag/v5.0.1), 2 months ago) - Shareable config for Renovate (renovatebot.com)
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 2 months ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
