@@ -15,9 +15,9 @@
 
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (1 month ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.2](https://github.com/anolilab/renovate-config/releases/tag/v5.0.2), today) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tabular@1.0.4](https://github.com/visulima/visulima/releases/tag/%40visulima/tabular%401.0.4), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.1), 2 months ago) - A fast and modern bundler for Node.js and TypeScript.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.1](https://github.com/anolilab/renovate-config/releases/tag/v5.0.1), 2 months ago) - Shareable config for Renovate (renovatebot.com)
 - [unjs/pathe](https://github.com/unjs/pathe) ([v2.0.3](https://github.com/unjs/pathe/releases/tag/v2.0.3), 2 months ago) - 🛣️ Drop-in replacement of the Node.js&#39;s path module module that ensures paths are normalized
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@1.1.10](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%401.1.10), 2 months ago) - A multi semantic release tool for monorepos.
 
