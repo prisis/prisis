@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.10](https://github.com/anolilab/workflows/releases/tag/v3.0.10), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v3.0.11](https://github.com/anolilab/workflows/releases/tag/v3.0.11), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@10.0.5](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4010.0.5), 2 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.3](https://github.com/anolilab/renovate-config/releases/tag/v5.0.3), 2 days ago) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tabular@1.0.4](https://github.com/visulima/visulima/releases/tag/%40visulima/tabular%401.0.4), 1 week ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
