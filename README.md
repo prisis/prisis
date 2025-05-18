@@ -13,14 +13,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [prisis/posthog-reverse-proxy](https://github.com/prisis/posthog-reverse-proxy) - Posthog Reverse Proxy (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 week ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 week ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [prisis/posthog-reverse-proxy](https://github.com/prisis/posthog-reverse-proxy) - Posthog Reverse Proxy
 - [prisis/ender-3-pro-klipper](https://github.com/prisis/ender-3-pro-klipper) - Klipper configuration for my Ender 3 pro (voron)
 - [prisis/ender-5-pro-klipper](https://github.com/prisis/ender-5-pro-klipper) - Klipper configuration for my Ender 5 pro
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume
