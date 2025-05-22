@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (1 day ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 days ago)
 - [prisis/posthog-reverse-proxy](https://github.com/prisis/posthog-reverse-proxy) - Posthog Reverse Proxy (4 days ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 weeks ago)
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v5.0.4](https://github.com/anolilab/renovate-config/releases/tag/v5.0.4), 4 days ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v6.0.0](https://github.com/anolilab/renovate-config/releases/tag/v6.0.0), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v4.0.0](https://github.com/anolilab/workflows/releases/tag/v4.0.0), 5 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@10.0.5](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4010.0.5), 1 week ago) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tabular@1.0.4](https://github.com/visulima/visulima/releases/tag/%40visulima/tabular%401.0.4), 2 weeks ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
