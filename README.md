@@ -31,9 +31,9 @@
 
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.0](https://github.com/anolilab/workflows/releases/tag/v6.1.0), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.9](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.9), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.41](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.41), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.4](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.4), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v7.0.1](https://github.com/anolilab/renovate-config/releases/tag/v7.0.1), 2 days ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@10.0.5](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4010.0.5), 2 weeks ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
