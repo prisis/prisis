@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (2 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (3 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tabular@1.0.7](https://github.com/visulima/visulima/releases/tag/%40visulima/tabular%401.0.7), today) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v8.0.0](https://github.com/anolilab/renovate-config/releases/tag/v8.0.0), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.0](https://github.com/anolilab/workflows/releases/tag/v6.1.0), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.4](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.4), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tabular@1.0.8](https://github.com/visulima/visulima/releases/tag/%40visulima/tabular%401.0.8), 1 day ago) - Visulima is the next-gen JavaScript framework for JAMStack blogs, sites &amp; apps.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v8.0.0](https://github.com/anolilab/renovate-config/releases/tag/v8.0.0), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.1), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.0](https://github.com/anolilab/workflows/releases/tag/v6.1.0), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.19.4](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.19.4), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
