@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.20.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.20.1), today) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.22.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.22.0), today) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.4](https://github.com/anolilab/workflows/releases/tag/v6.1.4), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v9.0.2](https://github.com/anolilab/renovate-config/releases/tag/v9.0.2), 2 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.0), 4 days ago) - A multi semantic release tool for monorepos.
