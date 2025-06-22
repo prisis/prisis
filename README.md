@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 days ago)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (3 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 days ago)
-- [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (4 days ago)
 
 #### 🌱 My latest projects
 
