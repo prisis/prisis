@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
-- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (2 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 days ago)
-- [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (3 days ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 days ago)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (3 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (3 days ago)
+- [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.26.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.26.0), today) - A fast and modern bundler for Node.js and TypeScript.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.4](https://github.com/anolilab/workflows/releases/tag/v6.1.4), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v9.0.2](https://github.com/anolilab/renovate-config/releases/tag/v9.0.2), 2 days ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.0), 4 days ago) - A multi semantic release tool for monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.26.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.26.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.4](https://github.com/anolilab/workflows/releases/tag/v6.1.4), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v9.0.2](https://github.com/anolilab/renovate-config/releases/tag/v9.0.2), 3 days ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.0), 5 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.17](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.17), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ These awesome people sponsor me (thank you!)
