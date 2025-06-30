@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.7](https://github.com/anolilab/workflows/releases/tag/v6.1.7), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v9.0.4](https://github.com/anolilab/renovate-config/releases/tag/v9.0.4), 3 days ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.6](https://github.com/anolilab/workflows/releases/tag/v6.1.6), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@1.28.2](https://github.com/visulima/packem/releases/tag/%40visulima/packem%401.28.2), 6 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.0), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.17](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.17), 3 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
