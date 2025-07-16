@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.13](https://github.com/anolilab/workflows/releases/tag/v6.1.13), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.14](https://github.com/anolilab/workflows/releases/tag/v6.1.14), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.4](https://github.com/anolilab/renovate-config/releases/tag/v10.0.4), 1 day ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.23](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.23), 5 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.2), 2 weeks ago) - A multi semantic release tool for monorepos.
