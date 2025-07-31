@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - An open-source database of AI models. (today)
-- [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (5 days ago)
+- [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (6 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 weeks ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (4 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.17](https://github.com/anolilab/workflows/releases/tag/v6.1.17), 5 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.17](https://github.com/anolilab/workflows/releases/tag/v6.1.17), 6 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.26](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.26), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.4](https://github.com/anolilab/renovate-config/releases/tag/v10.0.4), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.2), 4 weeks ago) - A multi semantic release tool for monorepos.
