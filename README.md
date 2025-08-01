@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.0.0), today) - An open-source database of AI models.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.19](https://github.com/anolilab/workflows/releases/tag/v6.1.19), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.3), 1 day ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.26](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.26), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.4](https://github.com/anolilab/renovate-config/releases/tag/v10.0.4), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.46](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.46), 1 month ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
