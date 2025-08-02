@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.2.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.2.1), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.2.2](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.2.2), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.5](https://github.com/anolilab/renovate-config/releases/tag/v10.0.5), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.19](https://github.com/anolilab/workflows/releases/tag/v6.1.19), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.3), 2 days ago) - A multi semantic release tool for monorepos.
