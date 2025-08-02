@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 days ago)
 - [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (1 week ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 weeks ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.0.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.0.1), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.19](https://github.com/anolilab/workflows/releases/tag/v6.1.19), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.3), 1 day ago) - A multi semantic release tool for monorepos.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.0.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.0.1), 1 day ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.19](https://github.com/anolilab/workflows/releases/tag/v6.1.19), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.3), 2 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.26](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.26), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.4](https://github.com/anolilab/renovate-config/releases/tag/v10.0.4), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 
