@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.1.11](https://github.com/prosopo/captcha/releases/tag/v3.1.11), 2 days ago) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.1.12](https://github.com/prosopo/captcha/releases/tag/v3.1.12), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.20](https://github.com/anolilab/workflows/releases/tag/v6.1.20), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.5), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
