@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0-alpha.10](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0-alpha.10), today) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0-alpha.11](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0-alpha.11), today) - A fast and modern bundler for Node.js and TypeScript.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.1.13](https://github.com/prosopo/captcha/releases/tag/v3.1.13), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.3.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.3.0), 6 days ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
