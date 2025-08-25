@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.1.13](https://github.com/prosopo/captcha/releases/tag/v3.1.13), 5 days ago) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.2.0](https://github.com/prosopo/captcha/releases/tag/v3.2.0), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.3.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.3.0), 1 week ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 2 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.20](https://github.com/anolilab/workflows/releases/tag/v6.1.20), 2 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
