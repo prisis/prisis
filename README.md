@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 days ago)
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (6 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (5 days ago)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 week ago)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 week ago)
 - [prosopo/captcha](https://github.com/prosopo/captcha) - Protect your website from bots with Prosopo Procaptcha (2 weeks ago)
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.2.1](https://github.com/prosopo/captcha/releases/tag/v3.2.1), today) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.2.1](https://github.com/prosopo/captcha/releases/tag/v3.2.1), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.3.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.3.0), 1 week ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 3 weeks ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.20](https://github.com/anolilab/workflows/releases/tag/v6.1.20), 3 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
