@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.47](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.47), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.29](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.29), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.2.4](https://github.com/prosopo/captcha/releases/tag/v3.2.4), 2 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.3.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.3.0), 3 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 1 month ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v6.1.20](https://github.com/anolilab/workflows/releases/tag/v6.1.20), 1 month ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
