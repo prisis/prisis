@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.3.1](https://github.com/prosopo/captcha/releases/tag/v3.3.1), today) - Protect your website from bots with Prosopo Procaptcha
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.0), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.3.0](https://github.com/prosopo/captcha/releases/tag/v3.3.0), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.29](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.29), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@1.3.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%401.3.0), 4 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.6](https://github.com/anolilab/renovate-config/releases/tag/v10.0.6), 1 month ago) - Shareable config for Renovate (renovatebot.com)
