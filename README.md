@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 days ago)
 - [prosopo/captcha](https://github.com/prosopo/captcha) - Protect your website from bots with Prosopo Procaptcha (4 days ago)
 - [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (6 days ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (6 days ago)
 
 #### 🌱 My latest projects
 
