@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 days ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (2 days ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 days ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vite-overlay@1.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/vite-overlay%401.0.2), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.2](https://github.com/prosopo/captcha/releases/tag/v3.4.2), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.4), 1 day ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.7](https://github.com/anolilab/renovate-config/releases/tag/v10.0.7), 2 days ago) - Shareable config for Renovate (renovatebot.com)
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vite-overlay@1.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/vite-overlay%401.0.1), 3 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.31](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.31), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ These awesome people sponsor me (thank you!)
