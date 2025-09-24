@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vite-overlay@1.1.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vite-overlay%401.1.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/tsconfig@1.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/tsconfig%401.2.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.2](https://github.com/prosopo/captcha/releases/tag/v3.4.2), 2 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.4), 2 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.7](https://github.com/anolilab/renovate-config/releases/tag/v10.0.7), 3 days ago) - Shareable config for Renovate (renovatebot.com)
