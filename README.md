@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.11](https://github.com/prosopo/captcha/releases/tag/v3.4.11), today) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.12](https://github.com/prosopo/captcha/releases/tag/v3.4.12), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.11](https://github.com/anolilab/renovate-config/releases/tag/v10.0.11), 2 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.6](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.6), 2 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.34](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.34), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
