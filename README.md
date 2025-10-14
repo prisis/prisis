@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fisker/node-style-text](https://github.com/fisker/node-style-text) - Chainable `util.styleText()`. (today)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [prosopo/captcha](https://github.com/prosopo/captcha) - Protect your website from bots with Prosopo Procaptcha (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
 - [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (2 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,9 +31,9 @@
 
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.13](https://github.com/anolilab/renovate-config/releases/tag/v10.0.13), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0-alpha.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0-alpha.1), today) - A multi semantic release tool for monorepos.
+- [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), today) - Chainable `util.styleText()`.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.12](https://github.com/prosopo/captcha/releases/tag/v3.4.12), 5 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.34](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.34), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/package@4.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/package%404.0.2), 1 week ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
