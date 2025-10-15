@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.9](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.9), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.36](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.36), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.13](https://github.com/anolilab/renovate-config/releases/tag/v10.0.13), 1 day ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0-alpha.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0-alpha.1), 1 day ago) - A multi semantic release tool for monorepos.
 - [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), 1 day ago) - Chainable `util.styleText()`.
