@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [prosopo/captcha](https://github.com/prosopo/captcha) - Protect your website from bots with Prosopo Procaptcha (2 days ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
-- [prosopo/captcha](https://github.com/prosopo/captcha) - Protect your website from bots with Prosopo Procaptcha (2 days ago)
-- [fisker/node-style-text](https://github.com/fisker/node-style-text) - Chainable `util.styleText()`. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.14](https://github.com/anolilab/renovate-config/releases/tag/v10.0.14), today) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.53](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.53), 2 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v7.0.0](https://github.com/anolilab/workflows/releases/tag/v7.0.0), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.37](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.37), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.13](https://github.com/anolilab/renovate-config/releases/tag/v10.0.13), 3 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0-alpha.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0-alpha.1), 3 days ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
