@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.7](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.7), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@1.1.55](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%401.1.55), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v7.0.1](https://github.com/anolilab/workflows/releases/tag/v7.0.1), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v10.0.15](https://github.com/anolilab/renovate-config/releases/tag/v10.0.15), 3 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.37](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.37), 5 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
