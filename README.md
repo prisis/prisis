@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.10](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.10), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@2.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%402.0.1), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.4.17](https://github.com/prosopo/captcha/releases/tag/v3.4.17), 2 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.8](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.8), 4 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v7.0.1](https://github.com/anolilab/workflows/releases/tag/v7.0.1), 2 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
