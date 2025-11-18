@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (3 days ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (6 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 weeks ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (4 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 week ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (4 weeks ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.10), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.13](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.13), 4 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.7](https://github.com/prosopo/captcha/releases/tag/v3.5.7), 5 days ago) - Protect your website from bots with Prosopo Procaptcha
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.10), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.13](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.13), 5 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.7](https://github.com/prosopo/captcha/releases/tag/v3.5.7), 6 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.9](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.9), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v7.0.1](https://github.com/anolilab/workflows/releases/tag/v7.0.1), 1 month ago) - Shared Github Actions for Node.js projects and Monorepos.
 
