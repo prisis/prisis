@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@7.0.10](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%407.0.10), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.39](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.39), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/error-handler@1.0.13](https://github.com/visulima/visulima/releases/tag/%40visulima/error-handler%401.0.13), 6 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.7](https://github.com/prosopo/captcha/releases/tag/v3.5.7), 1 week ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@2.0.9](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%402.0.9), 1 week ago) - A multi semantic release tool for monorepos.
