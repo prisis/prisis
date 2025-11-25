@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (4 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (5 days ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (5 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (5 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (5 days ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (6 days ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.11](https://github.com/prosopo/captcha/releases/tag/v3.5.11), today) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.12](https://github.com/prosopo/captcha/releases/tag/v3.5.12), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.2](https://github.com/anolilab/workflows/releases/tag/v8.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.2](https://github.com/anolilab/renovate-config/releases/tag/v11.0.2), 4 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0), 5 days ago) - A multi semantic release tool for monorepos.
