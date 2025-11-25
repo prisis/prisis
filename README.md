@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (3 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (4 days ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (4 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (4 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (5 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (4 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (5 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (5 days ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (5 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.2](https://github.com/anolilab/workflows/releases/tag/v8.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.2](https://github.com/anolilab/renovate-config/releases/tag/v11.0.2), 3 days ago) - Shareable config for Renovate (renovatebot.com)
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.10](https://github.com/prosopo/captcha/releases/tag/v3.5.10), 3 days ago) - Protect your website from bots with Prosopo Procaptcha
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0), 4 days ago) - A multi semantic release tool for monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@2.1.5](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%402.1.5), 5 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.2](https://github.com/anolilab/workflows/releases/tag/v8.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.2](https://github.com/anolilab/renovate-config/releases/tag/v11.0.2), 4 days ago) - Shareable config for Renovate (renovatebot.com)
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.10](https://github.com/prosopo/captcha/releases/tag/v3.5.10), 4 days ago) - Protect your website from bots with Prosopo Procaptcha
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.0.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.0.0), 5 days ago) - A multi semantic release tool for monorepos.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@2.1.5](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%402.1.5), 6 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
