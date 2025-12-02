@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.17](https://github.com/prosopo/captcha/releases/tag/v3.5.17), today) - Protect your website from bots with Prosopo Procaptcha
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email@1.0.0-alpha.2](https://github.com/visulima/visulima/releases/tag/%40visulima/email%401.0.0-alpha.2), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.16](https://github.com/prosopo/captcha/releases/tag/v3.5.16), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.3](https://github.com/anolilab/workflows/releases/tag/v8.0.3), 5 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.1.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.1.0), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.2](https://github.com/anolilab/renovate-config/releases/tag/v11.0.2), 1 week ago) - Shareable config for Renovate (renovatebot.com)
