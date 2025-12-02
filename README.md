@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/storage-client@1.0.0-alpha.1](https://github.com/visulima/visulima/releases/tag/%40visulima/storage-client%401.0.0-alpha.1), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email@1.0.0-alpha.2](https://github.com/visulima/visulima/releases/tag/%40visulima/email%401.0.0-alpha.2), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.16](https://github.com/prosopo/captcha/releases/tag/v3.5.16), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.3](https://github.com/anolilab/workflows/releases/tag/v8.0.3), 5 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.1.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.1.0), 1 week ago) - A multi semantic release tool for monorepos.
