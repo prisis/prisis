@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.2.3-alpha.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.2.3-alpha.1), today) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.3](https://github.com/anolilab/renovate-config/releases/tag/v11.0.3), 1 day ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.2.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.2.2), 4 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.4](https://github.com/anolilab/workflows/releases/tag/v8.0.4), 6 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.17](https://github.com/prosopo/captcha/releases/tag/v3.5.17), 1 week ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.39](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.39), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
