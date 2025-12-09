@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [visulima/visulima.com](https://github.com/visulima/visulima.com) - The source code of the official Visulima website. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (4 days ago)
 - [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (5 days ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (6 days ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (6 days ago)
