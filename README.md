@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@10.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%4010.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@3.2.3-alpha.2](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%403.2.3-alpha.2), today) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.3](https://github.com/anolilab/renovate-config/releases/tag/v11.0.3), 2 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.4](https://github.com/anolilab/workflows/releases/tag/v8.0.4), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.17](https://github.com/prosopo/captcha/releases/tag/v3.5.17), 1 week ago) - Protect your website from bots with Prosopo Procaptcha
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
