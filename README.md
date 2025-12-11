@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
 - [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 day ago)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 days ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.40](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.40), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.6](https://github.com/anolilab/workflows/releases/tag/v8.0.6), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/textlint-config@10.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/textlint-config%4010.0.0), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.3](https://github.com/anolilab/renovate-config/releases/tag/v11.0.3), 3 days ago) - Shareable config for Renovate (renovatebot.com)
 - [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), 1 month ago) - Chainable `util.styleText()`.
 
