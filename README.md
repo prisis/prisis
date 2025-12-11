@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
 - [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 day ago)
 
 #### 🌱 My latest projects
