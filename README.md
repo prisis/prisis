@@ -14,9 +14,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 day ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 day ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.7](https://github.com/anolilab/workflows/releases/tag/v8.0.7), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.8](https://github.com/anolilab/workflows/releases/tag/v8.0.8), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.41](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.41), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 2 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.3](https://github.com/anolilab/renovate-config/releases/tag/v11.0.3), 4 days ago) - Shareable config for Renovate (renovatebot.com)
