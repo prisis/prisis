@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 days ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (3 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 day ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 days ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.4](https://github.com/anolilab/renovate-config/releases/tag/v11.0.4), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.8](https://github.com/anolilab/workflows/releases/tag/v8.0.8), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.41](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.41), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 4 days ago) - Protect your website from bots with Prosopo Procaptcha
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v11.0.4](https://github.com/anolilab/renovate-config/releases/tag/v11.0.4), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v8.0.8](https://github.com/anolilab/workflows/releases/tag/v8.0.8), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@3.0.41](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%403.0.41), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 5 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), 2 months ago) - Chainable `util.styleText()`.
 
 #### ❤️ These awesome people sponsor me (thank you!)
