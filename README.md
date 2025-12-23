@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (3 days ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (6 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (4 days ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@8.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%408.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v9.0.2](https://github.com/anolilab/workflows/releases/tag/v9.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v12.0.0](https://github.com/anolilab/renovate-config/releases/tag/v12.0.0), 6 days ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@8.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%408.0.0), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v9.0.2](https://github.com/anolilab/workflows/releases/tag/v9.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v12.0.0](https://github.com/anolilab/renovate-config/releases/tag/v12.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 1 week ago) - Protect your website from bots with Prosopo Procaptcha
 - [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), 2 months ago) - Chainable `util.styleText()`.
 
