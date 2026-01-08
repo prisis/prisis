@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.0.2](https://github.com/anolilab/workflows/releases/tag/v11.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@8.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%408.0.1), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.0.1](https://github.com/anolilab/workflows/releases/tag/v11.0.1), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v14.0.0](https://github.com/anolilab/renovate-config/releases/tag/v14.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 4 weeks ago) - Protect your website from bots with Prosopo Procaptcha
 - [fisker/node-style-text](https://github.com/fisker/node-style-text) ([v2.1.2](https://github.com/fisker/node-style-text/releases/tag/v2.1.2), 2 months ago) - Chainable `util.styleText()`.
