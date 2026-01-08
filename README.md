@@ -13,8 +13,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 day ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (2 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (2 weeks ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 weeks ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@8.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%408.0.1), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@8.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%408.0.1), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.0.1](https://github.com/anolilab/workflows/releases/tag/v11.0.1), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v14.0.0](https://github.com/anolilab/renovate-config/releases/tag/v14.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.18](https://github.com/prosopo/captcha/releases/tag/v3.5.18), 4 weeks ago) - Protect your website from bots with Prosopo Procaptcha
