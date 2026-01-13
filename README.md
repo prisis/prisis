@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@3.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%403.0.0), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.0.0), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.0.5](https://github.com/anolilab/workflows/releases/tag/v11.0.5), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.1.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.1.0), today) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@9.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%409.0.0), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
