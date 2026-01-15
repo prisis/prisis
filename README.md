@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.19](https://github.com/prosopo/captcha/releases/tag/v3.5.19), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.20](https://github.com/prosopo/captcha/releases/tag/v3.5.20), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.0.2](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.0.2), 2 days ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.0.5](https://github.com/anolilab/workflows/releases/tag/v11.0.5), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.1.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.1.0), 2 days ago) - A multi semantic release tool for monorepos.
