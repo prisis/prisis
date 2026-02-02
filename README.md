@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.24](https://github.com/prosopo/captcha/releases/tag/v3.5.24), today) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.1.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.1.1), today) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.2.0](https://github.com/anolilab/workflows/releases/tag/v11.2.0), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.5.23](https://github.com/prosopo/captcha/releases/tag/v3.5.23), 1 day ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@10.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4010.0.0), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.0.2](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.0.2), 2 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 
