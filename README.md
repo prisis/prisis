@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.3.4](https://github.com/anolilab/workflows/releases/tag/v11.3.4), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.3.5](https://github.com/anolilab/workflows/releases/tag/v11.3.5), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.4](https://github.com/prosopo/captcha/releases/tag/v3.6.4), 5 days ago) - Protect your website from bots with Prosopo Procaptcha
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.0), 3 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@10.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4010.1.1), 3 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
