@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v14.0.1](https://github.com/anolilab/renovate-config/releases/tag/v14.0.1), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@10.1.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4010.1.4), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.8](https://github.com/prosopo/captcha/releases/tag/v3.6.8), 6 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.3.6](https://github.com/anolilab/workflows/releases/tag/v11.3.6), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.0), 4 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.1.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.1.1), 1 month ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
