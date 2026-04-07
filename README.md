@@ -14,8 +14,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 days ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 week ago)
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.2.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.2.0), today) - A multi semantic release tool for monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v14.0.2](https://github.com/anolilab/renovate-config/releases/tag/v14.0.2), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@10.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4010.1.5), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.8](https://github.com/prosopo/captcha/releases/tag/v3.6.8), 1 week ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v11.3.6](https://github.com/anolilab/workflows/releases/tag/v11.3.6), 2 weeks ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.0), 1 month ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
