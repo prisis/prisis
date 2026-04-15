@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (6 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 week ago)
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (2 weeks ago)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v13.0.1](https://github.com/anolilab/workflows/releases/tag/v13.0.1), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.9](https://github.com/prosopo/captcha/releases/tag/v3.6.9), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@27.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4027.0.1), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.1), 6 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v13.0.1](https://github.com/anolilab/workflows/releases/tag/v13.0.1), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.9](https://github.com/prosopo/captcha/releases/tag/v3.6.9), 5 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@27.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4027.0.1), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.1), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v14.0.2](https://github.com/anolilab/renovate-config/releases/tag/v14.0.2), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 
 #### ❤️ These awesome people sponsor me (thank you!)
