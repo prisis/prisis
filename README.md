@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.13](https://github.com/prosopo/captcha/releases/tag/v3.6.13), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.13](https://github.com/prosopo/captcha/releases/tag/v3.6.13), 2 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.3), 1 week ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v13.0.1](https://github.com/anolilab/workflows/releases/tag/v13.0.1), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@27.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4027.0.1), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
