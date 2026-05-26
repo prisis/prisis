@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
 - [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (1 day ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 day ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (1 day ago)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
 
 #### 🌱 My latest projects
 
