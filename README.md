@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [visulima/.github](https://github.com/visulima/.github) - Source code of the default community health files for the Visulima organization. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 days ago)
-- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (2 days ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (2 days ago)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (2 days ago)
 
