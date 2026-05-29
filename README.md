@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/template-sync-action](https://github.com/anolilab/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
+- [anolilab/template-sync-action](https://github.com/anolilab/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (1 day ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.25](https://github.com/prosopo/captcha/releases/tag/v3.6.25), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), today) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 2 days ago) - A multi semantic release tool for monorepos.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.1](https://github.com/anolilab/workflows/releases/tag/v18.0.1), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v17.0.0](https://github.com/anolilab/renovate-config/releases/tag/v17.0.0), 3 days ago) - Shareable config for Renovate (renovatebot.com)
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.25](https://github.com/prosopo/captcha/releases/tag/v3.6.25), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 3 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.1](https://github.com/anolilab/workflows/releases/tag/v18.0.1), 4 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v17.0.0](https://github.com/anolilab/renovate-config/releases/tag/v17.0.0), 4 days ago) - Shareable config for Renovate (renovatebot.com)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
