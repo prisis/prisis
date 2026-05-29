@@ -17,7 +17,7 @@
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v19.0.0](https://github.com/anolilab/renovate-config/releases/tag/v19.0.0), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.2](https://github.com/anolilab/workflows/releases/tag/v18.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.26](https://github.com/prosopo/captcha/releases/tag/v3.6.26), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 3 days ago) - A multi semantic release tool for monorepos.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v17.0.0](https://github.com/anolilab/renovate-config/releases/tag/v17.0.0), 4 days ago) - Shareable config for Renovate (renovatebot.com)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
