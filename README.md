@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (2 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (2 days ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 days ago)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (2 days ago)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (3 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (3 days ago)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (3 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 days ago)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v19.0.0](https://github.com/anolilab/renovate-config/releases/tag/v19.0.0), 2 days ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.2](https://github.com/anolilab/workflows/releases/tag/v18.0.2), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.26](https://github.com/prosopo/captcha/releases/tag/v3.6.26), 2 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 3 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 5 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v19.0.0](https://github.com/anolilab/renovate-config/releases/tag/v19.0.0), 3 days ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.2](https://github.com/anolilab/workflows/releases/tag/v18.0.2), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.26](https://github.com/prosopo/captcha/releases/tag/v3.6.26), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 4 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 6 days ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
