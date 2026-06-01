@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.27](https://github.com/prosopo/captcha/releases/tag/v3.6.27), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v19.0.0](https://github.com/anolilab/renovate-config/releases/tag/v19.0.0), 3 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.2](https://github.com/anolilab/workflows/releases/tag/v18.0.2), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.26](https://github.com/prosopo/captcha/releases/tag/v3.6.26), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 4 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 6 days ago) - A multi semantic release tool for monorepos.
 
