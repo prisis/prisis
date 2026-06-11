@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (5 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (6 days ago)
 - [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 week ago)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 week ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 week ago)
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.36](https://github.com/prosopo/captcha/releases/tag/v3.6.36), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.36](https://github.com/prosopo/captcha/releases/tag/v3.6.36), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v18.0.3](https://github.com/anolilab/workflows/releases/tag/v18.0.3), 1 week ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v19.0.1](https://github.com/anolilab/renovate-config/releases/tag/v19.0.1), 1 week ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v2.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v2.0.0), 2 weeks ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.4](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.4), 2 weeks ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
