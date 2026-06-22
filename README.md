@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.46](https://github.com/prosopo/captcha/releases/tag/v3.6.46), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.47](https://github.com/prosopo/captcha/releases/tag/v3.6.47), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.1), 2 days ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.0](https://github.com/anolilab/renovate-config/releases/tag/v21.0.0), 2 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.5](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.5), 2 days ago) - A multi semantic release tool for monorepos.
