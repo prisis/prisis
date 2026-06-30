@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (3 days ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 week ago)
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (1 week ago)
