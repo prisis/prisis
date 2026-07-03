@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v20.1.3](https://github.com/anolilab/workflows/releases/tag/v20.1.3), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.55](https://github.com/prosopo/captcha/releases/tag/v3.6.55), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.1), 1 week ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.0](https://github.com/anolilab/renovate-config/releases/tag/v21.0.0), 1 week ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.5](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.5), 1 week ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
