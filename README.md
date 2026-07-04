@@ -15,9 +15,9 @@
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (1 week ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 week ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.0.5), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v20.2.0](https://github.com/anolilab/workflows/releases/tag/v20.2.0), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.55](https://github.com/prosopo/captcha/releases/tag/v3.6.55), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.1), 1 week ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.0.5), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v20.2.0](https://github.com/anolilab/workflows/releases/tag/v20.2.0), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.0), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.55](https://github.com/prosopo/captcha/releases/tag/v3.6.55), 2 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.1), 2 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
