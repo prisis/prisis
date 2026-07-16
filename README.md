@@ -14,7 +14,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (2 days ago)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 week ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (1 week ago)
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (3 weeks ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v20.2.7](https://github.com/anolilab/workflows/releases/tag/v20.2.7), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.2), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.62](https://github.com/prosopo/captcha/releases/tag/v3.6.62), 5 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v20.2.7](https://github.com/anolilab/workflows/releases/tag/v20.2.7), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.2), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.6.62](https://github.com/prosopo/captcha/releases/tag/v3.6.62), 6 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.0.5), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@4.1.1](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%404.1.1), 3 weeks ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 
