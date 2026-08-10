@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), today) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0), today) - A fast and modern bundler for Node.js and TypeScript.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.5](https://github.com/prosopo/captcha/releases/tag/v3.7.5), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
