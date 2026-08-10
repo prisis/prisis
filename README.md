@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0), today) - A fast and modern bundler for Node.js and TypeScript.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.5](https://github.com/prosopo/captcha/releases/tag/v3.7.5), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.12](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.12), 2 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.6](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.6), 2 weeks ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
