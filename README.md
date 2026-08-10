@@ -13,9 +13,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (2 days ago)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 weeks ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 weeks ago)
 
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.5](https://github.com/prosopo/captcha/releases/tag/v3.7.5), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.12](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.12), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v21.0.5](https://github.com/anolilab/workflows/releases/tag/v21.0.5), 4 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.5](https://github.com/prosopo/captcha/releases/tag/v3.7.5), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.12](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.12), 2 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v21.0.5](https://github.com/anolilab/workflows/releases/tag/v21.0.5), 5 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.6](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.6), 2 weeks ago) - A multi semantic release tool for monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@11.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4011.1.2), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cersho](https://github.com/cersho) (5 days ago)
+- [cersho](https://github.com/cersho) (6 days ago)
 
 #### 💬 Feedback
 
