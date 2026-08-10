@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
 - [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 
 #### 🌱 My latest projects
 
