@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
+- [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
+- [anolilab/template-sync-action](https://github.com/anolilab/template-sync-action) - :arrows_counterclockwise: Github action to sync repository with a template repository (today)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
 
 #### 🌱 My latest projects
 
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), today) - A multi semantic release tool for monorepos.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), today) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0), today) - A fast and modern bundler for Node.js and TypeScript.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), 1 day ago) - A multi semantic release tool for monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.1), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), 1 day ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cersho](https://github.com/cersho) (6 days ago)
+- [cersho](https://github.com/cersho) (1 week ago)
 
 #### 💬 Feedback
 
