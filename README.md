@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
+- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (today)
 
 #### 🌱 My latest projects
 
