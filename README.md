@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/anole.chat](https://github.com/anolilab/anole.chat) - A modern, feature-rich AI chat application built with React, Convex, and the Vercel AI SDK. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@28.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4028.1.5), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.1](https://github.com/anolilab/renovate-config/releases/tag/v21.0.1), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), 1 day ago) - A multi semantic release tool for monorepos.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.1), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), 1 day ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.0.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
