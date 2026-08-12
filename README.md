@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/zod-prisma](https://github.com/anolilab/zod-prisma) - Helpful packages to work with prisma and zod. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@28.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4028.1.5), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.1](https://github.com/anolilab/renovate-config/releases/tag/v21.0.1), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), 1 day ago) - A multi semantic release tool for monorepos.
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), 1 day ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/eslint-config@28.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/eslint-config%4028.1.5), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.1](https://github.com/anolilab/renovate-config/releases/tag/v21.0.1), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), 2 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) ([@anolilab/ai-model-registry@5.0.0](https://github.com/anolilab/ai-models/releases/tag/%40anolilab/ai-model-registry%405.0.0), 2 days ago) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.2](https://github.com/anolilab/workflows/releases/tag/v22.0.2), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
