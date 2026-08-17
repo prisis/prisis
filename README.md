@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/find-ai-runner@1.0.2](https://github.com/visulima/visulima/releases/tag/%40visulima/find-ai-runner%401.0.2), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@12.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4012.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.11](https://github.com/prosopo/captcha/releases/tag/v3.7.11), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@12.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4012.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.13](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.13), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.12](https://github.com/prosopo/captcha/releases/tag/v3.7.12), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.1](https://github.com/anolilab/renovate-config/releases/tag/v21.0.1), 6 days ago) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.7](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.7), 1 week ago) - A multi semantic release tool for monorepos.
 
