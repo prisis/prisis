@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (2 days ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 week ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 week ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.5](https://github.com/anolilab/workflows/releases/tag/v22.0.5), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.2), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.17](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.17), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.3](https://github.com/anolilab/workflows/releases/tag/v22.0.3), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.13](https://github.com/prosopo/captcha/releases/tag/v3.7.13), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.1), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.1](https://github.com/anolilab/renovate-config/releases/tag/v21.0.1), 1 week ago) - Shareable config for Renovate (renovatebot.com)
 
 #### ❤️ These awesome people sponsor me (thank you!)
