@@ -13,10 +13,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (today)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (1 day ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.6](https://github.com/anolilab/workflows/releases/tag/v22.0.6), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.0](https://github.com/anolilab/workflows/releases/tag/v23.0.0), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.20](https://github.com/prosopo/captcha/releases/tag/v3.7.20), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.9](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.9), today) - A multi semantic release tool for monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.22](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.22), today) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.18](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.18), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.0), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 
