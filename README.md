@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.6](https://github.com/anolilab/workflows/releases/tag/v22.0.6), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.20](https://github.com/prosopo/captcha/releases/tag/v3.7.20), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.9](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.9), today) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.18](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.18), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.0), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v22.0.5](https://github.com/anolilab/workflows/releases/tag/v22.0.5), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
