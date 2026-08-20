@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.21](https://github.com/prosopo/captcha/releases/tag/v3.7.21), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.22](https://github.com/prosopo/captcha/releases/tag/v3.7.22), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.0](https://github.com/anolilab/workflows/releases/tag/v23.0.0), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.22](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.22), today) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.18](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.18), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
