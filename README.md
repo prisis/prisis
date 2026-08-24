@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 days ago)
-- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (3 days ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (4 days ago)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (4 days ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (4 days ago)
+- [anolilab/monorepo-template](https://github.com/anolilab/monorepo-template) - Provides a GitHub mono repository template for a Anolilab Node libraries, using GitHub actions. (4 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (5 days ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.1](https://github.com/anolilab/workflows/releases/tag/v23.0.1), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.23](https://github.com/prosopo/captcha/releases/tag/v3.7.23), 2 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.22](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.22), 3 days ago) - A multi semantic release tool for monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.18](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.18), 4 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.0), 4 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.1](https://github.com/anolilab/workflows/releases/tag/v23.0.1), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.7.23](https://github.com/prosopo/captcha/releases/tag/v3.7.23), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.22](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.22), 4 days ago) - A multi semantic release tool for monorepos.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.18](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.18), 5 days ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.0), 5 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
