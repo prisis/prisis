@@ -37,7 +37,6 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [cersho](https://github.com/cersho) (1 month ago)
 
 #### 💬 Feedback
 
