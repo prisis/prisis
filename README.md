@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 day ago)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.2](https://github.com/anolilab/renovate-config/releases/tag/v21.0.2), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.1.0](https://github.com/anolilab/renovate-config/releases/tag/v21.1.0), today) - Shareable config for Renovate (renovatebot.com)
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.7](https://github.com/anolilab/workflows/releases/tag/v23.0.7), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.20](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.20), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.1.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.1.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
