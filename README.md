@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.1.0](https://github.com/anolilab/renovate-config/releases/tag/v21.1.0), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.7](https://github.com/anolilab/workflows/releases/tag/v23.0.7), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.20](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.20), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.21](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.21), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v23.0.1](https://github.com/anolilab/renovate-config/releases/tag/v23.0.1), today) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.1](https://github.com/anolilab/workflows/releases/tag/v24.0.1), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.6](https://github.com/prosopo/captcha/releases/tag/v3.8.6), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.1.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.1.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.5](https://github.com/prosopo/captcha/releases/tag/v3.8.5), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
