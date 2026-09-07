@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (today)
+- [anolilab/.github](https://github.com/anolilab/.github) - Anolilab Organization Templates (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) - Shareable config for Renovate (renovatebot.com) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.2](https://github.com/anolilab/renovate-config/releases/tag/v21.0.2), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.7](https://github.com/anolilab/workflows/releases/tag/v23.0.7), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.20](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.20), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.1.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.1.0), today) - A fast and modern bundler for Node.js and TypeScript.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.5](https://github.com/prosopo/captcha/releases/tag/v3.8.5), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v21.0.2](https://github.com/anolilab/renovate-config/releases/tag/v21.0.2), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v23.0.7](https://github.com/anolilab/workflows/releases/tag/v23.0.7), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.20](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.20), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@2.1.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%402.1.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.5](https://github.com/prosopo/captcha/releases/tag/v3.8.5), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
