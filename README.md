@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.7](https://github.com/prosopo/captcha/releases/tag/v3.8.7), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.1), today) - Generate favicons for your project with caching for blazing fast rebuilds.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.21](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.21), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v23.0.1](https://github.com/anolilab/renovate-config/releases/tag/v23.0.1), today) - Shareable config for Renovate (renovatebot.com)
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.7](https://github.com/prosopo/captcha/releases/tag/v3.8.7), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.1), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.21](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.21), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v23.0.1](https://github.com/anolilab/renovate-config/releases/tag/v23.0.1), 1 day ago) - Shareable config for Renovate (renovatebot.com)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
