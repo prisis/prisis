@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.2](https://github.com/anolilab/workflows/releases/tag/v24.0.2), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.13](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.13), 2 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.14](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.14), today) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.3](https://github.com/anolilab/workflows/releases/tag/v24.0.3), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.10](https://github.com/prosopo/captcha/releases/tag/v3.8.10), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.1), 6 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
