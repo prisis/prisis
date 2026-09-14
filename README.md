@@ -13,11 +13,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 days ago)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (5 days ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (5 days ago)
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (5 days ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (3 days ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (6 days ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (6 days ago)
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.14](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.14), today) - A multi semantic release tool for monorepos.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.3](https://github.com/anolilab/workflows/releases/tag/v24.0.3), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.10](https://github.com/prosopo/captcha/releases/tag/v3.8.10), 3 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.1), 6 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.14](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.14), 1 day ago) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.3](https://github.com/anolilab/workflows/releases/tag/v24.0.3), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.10](https://github.com/prosopo/captcha/releases/tag/v3.8.10), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), 1 week ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v4.0.1](https://github.com/anolilab/unplugin-favicons/releases/tag/v4.0.1), 1 week ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
