@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.6](https://github.com/anolilab/workflows/releases/tag/v24.0.6), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.25](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.25), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.19](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.19), 1 day ago) - A multi semantic release tool for monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.20](https://github.com/prosopo/captcha/releases/tag/v3.8.20), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.5](https://github.com/anolilab/workflows/releases/tag/v24.0.5), 6 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.3), 2 weeks ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ These awesome people sponsor me (thank you!)
