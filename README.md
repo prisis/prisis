@@ -1,7 +1,13 @@
 <h1>Hi <img src="https://github.com/prisis/prisis/blob/main/images/hi.gif?raw=true" width="40px" />, I'm Daniel</h1>
 <p align="center">
-    <samp>A Software Engineer, Consultant and Open Source Enthusiast from Germany.</samp>
+    <samp>Full-stack &amp; AI engineer from Germany. I build web and AI products, and the open-source tools other developers ship with.</samp>
 </p>
+
+- 🌙 **[Lunora](https://github.com/anolilab/lunora)**: type-safe, real-time backend on your own Cloudflare account (Workers, Durable Objects, D1, R2)
+- 🧰 **[Visulima](https://github.com/visulima/visulima)**: 60+ TypeScript packages for Node.js, incl. `packem` (bundler) and `vis-mcp` (MCP server for coding agents)
+- 🚀 **[multi-semantic-release](https://github.com/anolilab/semantic-release)**: semantic-release for monorepos
+- 📦 160+ npm packages, **3M+ downloads a month**
+- 🏢 Founder of **[Anolilab](https://anolilab.com)**: web &amp; AI products for startups, shipped in 4–6 weeks. **[Book a free call →](https://anolilab.com/contact)**
 
 <p align="center">
     <a href="https://github.com/prisis">
@@ -13,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (1 day ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (1 day ago)
 
 #### 🌱 My latest projects
@@ -29,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.39](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.39), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.40](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.40), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.8](https://github.com/anolilab/workflows/releases/tag/v24.0.8), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.25](https://github.com/prosopo/captcha/releases/tag/v3.8.25), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.21](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.21), 1 week ago) - A multi semantic release tool for monorepos.
@@ -45,9 +51,10 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 #### 📫 How to reach me
 
-- Website: [anolilab](https://anolilab.com)
+- Work with me: [anolilab.com/contact](https://anolilab.com/contact)
+- LinkedIn: [linkedin.com/in/danielbannert](https://www.linkedin.com/in/danielbannert)
 - Twitter: [@_prisis_](https://twitter.com/_prisis_)
-- Email: [d.bannert@anolilab.de](mailto://d.bannert@anolilab.de)
+- Email: [d.bannert@anolilab.de](mailto:d.bannert@anolilab.de)
 
 <p align="center">
     <a href="https://twitter.com/_prisis_">
