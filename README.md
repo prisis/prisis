@@ -19,10 +19,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 
 #### 🌱 My latest projects
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.4](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.4), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.9](https://github.com/anolilab/workflows/releases/tag/v24.0.9), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.34](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.34), today) - A multi semantic release tool for monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.33](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.33), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.26](https://github.com/prosopo/captcha/releases/tag/v3.8.26), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v24.0.0](https://github.com/anolilab/renovate-config/releases/tag/v24.0.0), 1 day ago) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.23](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.23), 2 days ago) - A multi semantic release tool for monorepos.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.8](https://github.com/anolilab/workflows/releases/tag/v24.0.8), 4 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
