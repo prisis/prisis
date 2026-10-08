@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.27](https://github.com/prosopo/captcha/releases/tag/v3.8.27), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.28](https://github.com/prosopo/captcha/releases/tag/v3.8.28), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/notification@1.2.0](https://github.com/visulima/visulima/releases/tag/%40visulima/notification%401.2.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.0.10](https://github.com/anolilab/workflows/releases/tag/v24.0.10), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.5), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
