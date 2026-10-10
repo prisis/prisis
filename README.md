@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v24.0.1](https://github.com/anolilab/renovate-config/releases/tag/v24.0.1), today) - Shareable config for Renovate (renovatebot.com)
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.37](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.37), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.1.0](https://github.com/anolilab/workflows/releases/tag/v24.1.0), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.28](https://github.com/prosopo/captcha/releases/tag/v3.8.28), 2 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.5), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/semantic-release-preset@13.4.34](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/semantic-release-preset%4013.4.34), 4 days ago) - A multi semantic release tool for monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
