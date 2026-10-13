@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) - Generate favicons for your project with caching for blazing fast rebuilds. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [anolilab/skills](https://github.com/anolilab/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 days ago)
+- [anolilab/test-multi-semantic-release](https://github.com/anolilab/test-multi-semantic-release) - Test for the multi-semantic-release (today)
+- [anolilab/ai-models](https://github.com/anolilab/ai-models) - Explore a comprehensive registry of AI models from leading providers. Find the perfect AI model for your project with detailed information, comparisons, and provider details. (today)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.1.1](https://github.com/anolilab/workflows/releases/tag/v24.1.1), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/storage@2.0.38](https://github.com/visulima/visulima/releases/tag/%40visulima/storage%402.0.38), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v24.0.1](https://github.com/anolilab/renovate-config/releases/tag/v24.0.1), 2 days ago) - Shareable config for Renovate (renovatebot.com)
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.28](https://github.com/prosopo/captcha/releases/tag/v3.8.28), 4 days ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/commitlint-config@10.1.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/commitlint-config%4010.1.5), 6 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v5.0.0](https://github.com/anolilab/unplugin-favicons/releases/tag/v5.0.0), 1 day ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/stylelint-config@11.1.2](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/stylelint-config%4011.1.2), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.4.24](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.4.24), 1 day ago) - A multi semantic release tool for monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v25.0.0](https://github.com/anolilab/renovate-config/releases/tag/v25.0.0), 1 day ago) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.2.0](https://github.com/anolilab/workflows/releases/tag/v24.2.0), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
