@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@1.0.46](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%401.0.46), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@13.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4013.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v5.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v5.0.2), today) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.2.2](https://github.com/anolilab/workflows/releases/tag/v24.2.2), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.29](https://github.com/prosopo/captcha/releases/tag/v3.8.29), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v25.0.1](https://github.com/anolilab/renovate-config/releases/tag/v25.0.1), today) - Shareable config for Renovate (renovatebot.com)
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.2.1](https://github.com/anolilab/workflows/releases/tag/v24.2.1), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@13.0.0](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4013.0.0), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.40](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.40), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
