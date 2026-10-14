@@ -32,10 +32,14 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
+#### ❤️ Sponsors
+{{with sponsors 5}}These awesome people sponsor me (thank you!)
+{{range .}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+{{else}}
+Lunora, Visulima, Packem and multi-semantic-release are free and maintained in my spare time. If your team ships with them, **[sponsoring me](https://github.com/sponsors/prisis)** keeps them maintained.
+{{end}}
 
 #### 💬 Feedback
 
