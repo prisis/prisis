@@ -41,7 +41,9 @@
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.2.2](https://github.com/anolilab/workflows/releases/tag/v24.2.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.29](https://github.com/prosopo/captcha/releases/tag/v3.8.29), 1 day ago) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ Sponsors
+
+Lunora, Visulima, Packem and multi-semantic-release are free and maintained in my spare time. If your team ships with them, **[sponsoring me](https://github.com/sponsors/prisis)** keeps them maintained.
 
 
 #### 💬 Feedback
