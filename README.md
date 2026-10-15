@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@4.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%404.0.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [prosopo/captcha](https://github.com/prosopo/captcha) ([v3.8.30](https://github.com/prosopo/captcha/releases/tag/v3.8.30), today) - Open-source, frictionless CAPTCHA and bot defense. A privacy-focused alternative to reCAPTCHA and hCaptcha.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@3.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%403.0.0), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@3.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%403.0.0), today) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@13.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4013.0.1), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v5.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v5.0.2), 2 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v24.2.2](https://github.com/anolilab/workflows/releases/tag/v24.2.2), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 
 #### ❤️ Sponsors
 
