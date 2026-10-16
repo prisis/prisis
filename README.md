@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [visulima/docs](https://github.com/visulima/docs) - Documentation site for Visulima and its packages (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [visulima/docs](https://github.com/visulima/docs) - Documentation site for Visulima and its packages (today)
 
 #### 🌱 My latest projects
 
@@ -35,9 +35,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/ono@3.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/ono%403.0.1), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.1](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.1), today) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@3.0.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%403.0.1), today) - A fast and modern bundler for Node.js and TypeScript.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.45](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.45), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@13.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4013.0.1), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v5.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v5.0.2), 3 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
 
