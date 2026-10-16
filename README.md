@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/vis-mcp@3.0.0](https://github.com/visulima/visulima/releases/tag/%40visulima/vis-mcp%403.0.0), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.45](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.45), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@3.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%403.0.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/lint-staged-config@13.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/lint-staged-config%4013.0.1), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [anolilab/unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ([v5.0.2](https://github.com/anolilab/unplugin-favicons/releases/tag/v5.0.2), 3 days ago) - Generate favicons for your project with caching for blazing fast rebuilds.
