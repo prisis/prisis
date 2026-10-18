@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (today)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.5](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.5), today) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.1](https://github.com/anolilab/workflows/releases/tag/v25.0.1), today) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.0), today) - A fast and modern bundler for Node.js and TypeScript.
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.46](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.46), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@1.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%401.0.5), 1 day ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/vis](https://github.com/visulima/vis) ([@visulima/secret-scanner@2.0.3](https://github.com/visulima/vis/releases/tag/%40visulima/secret-scanner%402.0.3), 1 day ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.1](https://github.com/anolilab/workflows/releases/tag/v25.0.1), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.0), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.46](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.46), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@1.0.5](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%401.0.5), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 
 #### ❤️ Sponsors
 
