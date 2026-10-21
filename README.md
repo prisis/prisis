@@ -22,8 +22,8 @@
 - [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.49](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.49), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.0), 2 days ago) - A multi semantic release tool for monorepos.
-- [visulima/vis](https://github.com/visulima/vis) ([@visulima/secret-scanner@2.0.3](https://github.com/visulima/vis/releases/tag/%40visulima/secret-scanner%402.0.3), 3 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.1](https://github.com/anolilab/workflows/releases/tag/v25.0.1), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.0), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.50](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.50), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.0](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.0), 3 days ago) - A multi semantic release tool for monorepos.
+- [visulima/vis](https://github.com/visulima/vis) ([@visulima/secret-scanner@2.0.3](https://github.com/visulima/vis/releases/tag/%40visulima/secret-scanner%402.0.3), 4 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.1](https://github.com/anolilab/workflows/releases/tag/v25.0.1), 4 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.0](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.0), 4 days ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ Sponsors
 
