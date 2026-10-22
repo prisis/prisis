@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (today)
 - [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) - This project is a code style guide of all basic back- and front end project used at Anolilab. (today)
-- [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (1 day ago)
 
 #### 🌱 My latest projects
 
