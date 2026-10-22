@@ -35,10 +35,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.3](https://github.com/anolilab/workflows/releases/tag/v25.0.3), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.1), today) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.1), today) - A fast and modern bundler for Node.js and TypeScript.
 - [visulima/vis](https://github.com/visulima/vis) ([@visulima/task-runner@3.0.1](https://github.com/visulima/vis/releases/tag/%40visulima/task-runner%403.0.1), 1 day ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.2](https://github.com/anolilab/workflows/releases/tag/v25.0.2), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.50](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.50), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 
 #### ❤️ Sponsors
