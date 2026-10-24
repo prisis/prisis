@@ -19,11 +19,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [anolilab/resume](https://github.com/anolilab/resume) - Template to create your own resume (today)
 - [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (today)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
 - [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
-- [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
+- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.1), today) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.6](https://github.com/anolilab/workflows/releases/tag/v25.0.6), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/cerebro@4.0.1](https://github.com/visulima/visulima/releases/tag/%40visulima/cerebro%404.0.1), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.5](https://github.com/anolilab/workflows/releases/tag/v25.0.5), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.1), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.1), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
-- [visulima/vis](https://github.com/visulima/vis) ([@visulima/task-runner@3.0.1](https://github.com/visulima/vis/releases/tag/%40visulima/task-runner%403.0.1), 3 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
 
 #### ❤️ Sponsors
 
