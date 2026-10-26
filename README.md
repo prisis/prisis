@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (today)
-- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (1 day ago)
-- [prisis/my-resume](https://github.com/prisis/my-resume) - My resume (1 day ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first. (1 day ago)
+- [anolilab/workflows](https://github.com/anolilab/workflows) - Shared Github Actions for Node.js projects and Monorepos. (2 days ago)
+- [anolilab/vscode-extension-pack](https://github.com/anolilab/vscode-extension-pack) - Extension Pack for Anolilab (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.53](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.53), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.1), 1 day ago) - A multi semantic release tool for monorepos.
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.6](https://github.com/anolilab/workflows/releases/tag/v25.0.6), 1 day ago) - Shared Github Actions for Node.js projects and Monorepos.
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.1), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.1), 3 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.53](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.53), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.1), 2 days ago) - A multi semantic release tool for monorepos.
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.6](https://github.com/anolilab/workflows/releases/tag/v25.0.6), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.1), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.1](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.1), 4 days ago) - A fast and modern bundler for Node.js and TypeScript.
 
 #### ❤️ Sponsors
 
