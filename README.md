@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.53](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.53), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.54](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.54), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.1](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.1), 2 days ago) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v25.0.6](https://github.com/anolilab/workflows/releases/tag/v25.0.6), 2 days ago) - Shared Github Actions for Node.js projects and Monorepos.
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.1](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.1), 4 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
