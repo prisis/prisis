@@ -35,9 +35,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v26.0.8](https://github.com/anolilab/renovate-config/releases/tag/v26.0.8), today) - Shareable config for Renovate (renovatebot.com)
+- [anolilab/workflows](https://github.com/anolilab/workflows) ([v26.0.4](https://github.com/anolilab/workflows/releases/tag/v26.0.4), today) - Shared Github Actions for Node.js projects and Monorepos.
+- [anolilab/renovate-config](https://github.com/anolilab/renovate-config) ([v26.0.9](https://github.com/anolilab/renovate-config/releases/tag/v26.0.9), today) - Shareable config for Renovate (renovatebot.com)
 - [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.11](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.11), today) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
-- [anolilab/workflows](https://github.com/anolilab/workflows) ([v26.0.3](https://github.com/anolilab/workflows/releases/tag/v26.0.3), today) - Shared Github Actions for Node.js projects and Monorepos.
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.58](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.58), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.3](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.3), 4 days ago) - A fast and modern bundler for Node.js and TypeScript.
 
