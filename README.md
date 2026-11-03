@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.15](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.15), today) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
+- [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.16](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.16), today) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
 - [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.61](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.61), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [anolilab/semantic-release](https://github.com/anolilab/semantic-release) ([@anolilab/multi-semantic-release@4.6.3](https://github.com/anolilab/semantic-release/releases/tag/%40anolilab/multi-semantic-release%404.6.3), today) - A multi semantic release tool for monorepos.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v26.0.6](https://github.com/anolilab/workflows/releases/tag/v26.0.6), today) - Shared Github Actions for Node.js projects and Monorepos.
