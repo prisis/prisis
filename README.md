@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.64](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.64), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.65](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.65), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.5](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.5), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
 - [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.20](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.20), 3 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
 - [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.3), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
