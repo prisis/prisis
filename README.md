@@ -21,9 +21,9 @@
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend with Vite, Rsbuild and Rspack support, deployed on Cloudflare Workers and Durable Objects. Auth, storage, scheduling and an MCP server for AI agents. Convex-style DX. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (1 day ago)
-- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (1 day ago)
-- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (1 day ago)
+- [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (2 days ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (2 days ago)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.64](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.64), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
-- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.5](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.5), 1 day ago) - A fast and modern bundler for Node.js and TypeScript.
-- [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.20](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.20), 2 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
-- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.3), 2 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
-- [anolilab/skills](https://github.com/anolilab/skills) ([ui@0.2.0](https://github.com/anolilab/skills/releases/tag/ui%400.2.0), 2 days ago) - Skills for Real Engineers. Straight from my .agents directory.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.64](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.64), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/packem](https://github.com/visulima/packem) ([@visulima/packem@4.0.5](https://github.com/visulima/packem/releases/tag/%40visulima/packem%404.0.5), 2 days ago) - A fast and modern bundler for Node.js and TypeScript.
+- [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.20](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.20), 3 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
+- [anolilab/javascript-style-guide](https://github.com/anolilab/javascript-style-guide) ([@anolilab/oxlint-config@2.0.3](https://github.com/anolilab/javascript-style-guide/releases/tag/%40anolilab/oxlint-config%402.0.3), 3 days ago) - This project is a code style guide of all basic back- and front end project used at Anolilab.
+- [anolilab/skills](https://github.com/anolilab/skills) ([ui@0.2.0](https://github.com/anolilab/skills/releases/tag/ui%400.2.0), 3 days ago) - Skills for Real Engineers. Straight from my .agents directory.
 
 #### ❤️ Sponsors
 
