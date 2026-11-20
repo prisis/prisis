@@ -19,8 +19,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend with Vite, Rsbuild and Rspack support, deployed on Cloudflare Workers and Durable Objects. Auth, storage, scheduling and an MCP server for AI agents. Convex-style DX. (1 day ago)
-- [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (1 day ago)
+- [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend with Vite, Rsbuild and Rspack support, deployed on Cloudflare Workers and Durable Objects. Auth, storage, scheduling and an MCP server for AI agents. Convex-style DX. (today)
+- [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
 - [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (2 days ago)
 - [anolilab/skills](https://github.com/anolilab/skills) - Skills for Real Engineers. Straight from my .agents directory. (3 days ago)
 - [prisis/posthog-reverse-proxy](https://github.com/prisis/posthog-reverse-proxy) - Posthog Reverse Proxy (1 week ago)
@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.74](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.74), 1 day ago) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
+- [visulima/visulima](https://github.com/visulima/visulima) ([@visulima/email-verifier@1.0.75](https://github.com/visulima/visulima/releases/tag/%40visulima/email-verifier%401.0.75), today) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters.
 - [visulima/vis](https://github.com/visulima/vis) ([@visulima/vis-mcp@3.0.22](https://github.com/visulima/vis/releases/tag/%40visulima/vis-mcp%403.0.22), 3 days ago) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI
 - [anolilab/skills](https://github.com/anolilab/skills) ([ship@1.0.0](https://github.com/anolilab/skills/releases/tag/ship%401.0.0), 3 days ago) - Skills for Real Engineers. Straight from my .agents directory.
 - [anolilab/workflows](https://github.com/anolilab/workflows) ([v26.0.10](https://github.com/anolilab/workflows/releases/tag/v26.0.10), 3 days ago) - Shared Github Actions for Node.js projects and Monorepos.
