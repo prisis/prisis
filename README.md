@@ -20,10 +20,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend with Vite, Rsbuild and Rspack support, deployed on Cloudflare Workers and Durable Objects. Auth, storage, scheduling and an MCP server for AI agents. Convex-style DX. (today)
+- [visulima/visulima](https://github.com/visulima/visulima) - Visulima provides robust, developer-focused tools and libraries to streamline your workflow. Let us handle the complexities so you can focus on building what truly matters. (today)
 - [anolilab/neore](https://github.com/anolilab/neore) - A modern, feature-rich AI chat application built with React, TanStack Start, and a Lunora backend on Cloudflare Workers. Chat with multiple AI models, manage conversations with advanced tools, and enjoy a seamless real-time experience. (today)
-- [visulima/vis](https://github.com/visulima/vis) - Rust-backed Visulima tooling: vis task runner, MCP server, secret scanner, and terminal UI (1 day ago)
-- [anolilab/skills](https://github.com/anolilab/skills) - Skills for Real Engineers. Straight from my .agents directory. (4 days ago)
-- [prisis/posthog-reverse-proxy](https://github.com/prisis/posthog-reverse-proxy) - Posthog Reverse Proxy (1 week ago)
+- [visulima/packem](https://github.com/visulima/packem) - A fast and modern bundler for Node.js and TypeScript. (today)
+- [anolilab/semantic-release](https://github.com/anolilab/semantic-release) - A multi semantic release tool for monorepos. (today)
 
 #### 🌱 My latest projects
 
